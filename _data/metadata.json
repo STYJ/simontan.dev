@@ -1,0 +1,20 @@
+{
+  "title": "simontan.dev",
+  "url": "https://simontan.dev",
+  "description": "Musings of a curious developer ت",
+  "feed": {
+    "subtitle": "Musings of a curious developer ت",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://simontan.dev"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://simontan.dev/feed/feed.json"
+  },
+  "author": {
+    "name": "Simon Tan",
+    "email": "Hi, please do not contact me via email. You may instead reach me on twitter or telegram at @itsmeSTYJ.",
+    "url": "https://simontan.dev/about-me/"
+  }
+}
