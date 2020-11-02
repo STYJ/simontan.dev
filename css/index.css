@@ -18,7 +18,6 @@ html {
 
 html,
 body {
-  padding: 0;
   margin: 0;
   font-family: system-ui, sans-serif;
   color: var(--darkgray);
@@ -29,50 +28,31 @@ body {
   /* Grid properties */
   min-height: 100%;
   display: grid;
-  grid-template-columns: 1fr 1.5fr 1fr;
   grid-template-rows: minmax(100px, auto) 1fr minmax(50px, auto);
 }
+
 p:last-child {
-  margin-bottom: 0;
+  /* margin-bottom: 0; */
 }
+
 p,
 .tmpl-writing li,
 img {
-  max-width: 37.5em; /* 600px /16 */
+  /* max-width: 37.5em; /* 600px /16 */
 }
+
 p,
 .tmpl-writing li {
   line-height: 1.45;
 }
+
 a[href] {
   color: var(--blue);
 }
 a[href]:visited {
   color: var(--navy);
 }
-main {
-  padding: 1em;
 
-  /* Grid properties */
-  grid-column: 2;
-  grid-row: 2;
-}
-main :first-child {
-  margin-top: 0;
-}
-
-header {
-  border-bottom: 1px dashed var(--lightgray);
-  /* Grid properties */
-  grid-column: 2;
-  grid-row-start: 1;
-  grid-row-end: 2;
-
-  /* Nested grid properties within header */
-  display: grid;
-  grid-template-columns: 1fr auto;
-  align-items: end;
-}
 table {
   margin: 1em 0;
 }
@@ -105,6 +85,7 @@ pre {
   margin: .5em 0;
   background-color: #f6f6f6;
 }
+
 .highlight-line {
   display: block;
   padding: 0.125em 1em;
@@ -137,30 +118,29 @@ pre {
 }
 
 /* Header */
+header {
+  border-bottom: 1px dashed var(--lightgray);
+  /* Grid properties */
+  grid-row-start: 1;
+  grid-row-end: 2;
+
+  /* Nested grid properties within header */
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: end;
+}
+
 .home {
-  padding: 0 1em;
-  /* float: left; */
-  margin: 1em 0.5em;
-  font-size: 1em;
+  /* padding: 0 0.5em; */
+  /* margin: 1em 0.5em; */
 }
 .home :link:not(:hover) {
   text-decoration: none;
 }
 
-/* Footer */
-footer {
-  /* Grid properties */
-  grid-column: 2;
-  grid-row-start: 3;
-  grid-row-end: 4;
-
-  text-align: center;
-}
-
-/* Nav */
 .nav {
-  padding: 0;
-  justify-self: end;
+  /* padding: 0 0.5em;
+  margin: 1em 0.5em; */
   /* padding: 0;
   list-style: none;
   float: left;
@@ -168,7 +148,7 @@ footer {
 }
 .nav-item {
   display: inline-block;
-  margin: 0em 0.5em;
+  /* margin: 0em 0.5em; */
 }
 .nav-item a[href]:not(:hover) {
   text-decoration: none;
@@ -176,6 +156,24 @@ footer {
 .nav-item-active {
   font-weight: 700;
   text-decoration: underline;
+}
+
+/* Main */
+main {
+  /* Grid properties */
+  grid-row: 2;
+}
+main :first-child {
+  margin-top: 0;
+}
+
+/* Footer */
+footer {
+  /* Grid properties */
+  grid-row-start: 3;
+  grid-row-end: 4;
+
+  text-align: center;
 }
 
 /* writings list */
@@ -248,7 +246,7 @@ a[href].writing-tag:visited {
   font-family: sans-serif;
   text-decoration: none;
   font-style: normal;
-  margin-left: .1em;
+  margin-left: 0.1em;
 }
 a[href].direct-link,
 a[href].direct-link:visited {
