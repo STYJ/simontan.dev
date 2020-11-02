@@ -1,12 +1,19 @@
 ---
 permalink: /tags/
 layout: layouts/home.njk
+eleventyNavigation:
+  key: Tags
+  order: 3
 ---
 <h1>Tags</h1>
 
 {# This page is here http://localhost:8080/tags/ #}
+{#  #}
 
-{% for tag in collections.tagList %}
+{# {% for tag in collections.tagList %}
   {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
-{% endfor %}
+  <a href="{{ tagUrl | url }}" class="writing-tag">{{ tag }}</a>
+{% endfor %} #}
+
+{% set categorisedlist = collections.writings %}
+{% include "categorisedlist.njk" %}

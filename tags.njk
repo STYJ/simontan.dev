@@ -6,20 +6,20 @@ pagination:
   filter:
     - all
     - nav
-    - post
-    - posts
+    - writing
+    - writings
     - tagList
   addAllPagesToCollections: true
 layout: layouts/home.njk
 eleventyComputed:
-  title: Tagged “{{ tag }}”
+  title: Tagged "{{ tag }}"
 permalink: /tags/{{ tag }}/
 ---
-<h1>Tagged “{{ tag }}”</h1>
+<h1>Tagged "{{ tag }}</h1>
 
 {# This page is http://localhost:8080/tags/<tag name> #}
 
-{% set postslist = collections[ tag ] %}
-{% include "postslist.njk" %}
+{% set writingslist = collections[ tag ] %}
+{% include "writingslist.njk" %}
 
 <p>See <a href="{{ '/tags/' | url }}">all tags</a>.</p>

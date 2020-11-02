@@ -2,11 +2,11 @@
 layout: layouts/home.njk
 ---
 
-{% set maxPosts = collections.posts.length | min(3) %}
-<h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
+{% set maxwritings = collections.writings.length | min(3) %}
+<h1>Latest {% if maxwritings == 1 %}writing{% else %}{{ maxwritings }} writings{% endif %}</h1>
 
-{% set postslist = collections.posts | head(-3) %}
-{% set postslistCounter = collections.posts | length %}
-{% include "postslist.njk" %}
+{% set writingslist = collections.writings | head(-3) %}
+{% set writingslistCounter = collections.writings | length %}
+{% include "writingslist.njk" %}
 
-<p>More posts can be found in <a href="{{ '/posts/' | url }}">the archive</a>.</p>
+<p>More writings can be found in <a href="{{ '/writings/' | url }}">the archive</a>.</p>

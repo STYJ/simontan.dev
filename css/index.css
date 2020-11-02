@@ -29,19 +29,19 @@ body {
   /* Grid properties */
   min-height: 100%;
   display: grid;
-  grid-template-columns: 1fr 3fr 1fr;
+  grid-template-columns: 1fr 1.5fr 1fr;
   grid-template-rows: minmax(100px, auto) 1fr minmax(50px, auto);
 }
 p:last-child {
   margin-bottom: 0;
 }
 p,
-.tmpl-post li,
+.tmpl-writing li,
 img {
   max-width: 37.5em; /* 600px /16 */
 }
 p,
-.tmpl-post li {
+.tmpl-writing li {
   line-height: 1.45;
 }
 a[href] {
@@ -51,7 +51,7 @@ a[href]:visited {
   color: var(--navy);
 }
 main {
-  padding: 1rem;
+  padding: 1em;
 
   /* Grid properties */
   grid-column: 2;
@@ -60,19 +60,18 @@ main {
 main :first-child {
   margin-top: 0;
 }
+
 header {
   border-bottom: 1px dashed var(--lightgray);
-  
-
   /* Grid properties */
   grid-column: 2;
   grid-row-start: 1;
   grid-row-end: 2;
-}
-header:after {
-  content: "";
-  display: table;
-  clear: both;
+
+  /* Nested grid properties within header */
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: end;
 }
 table {
   margin: 1em 0;
@@ -139,10 +138,10 @@ pre {
 
 /* Header */
 .home {
-  padding: 0 1rem;
-  float: left;
-  margin: 1rem 0; /* 16px /16 */
-  font-size: 1em; /* 16px /16 */
+  /* padding: 0 1rem; */
+  /* float: left; */
+  margin: 1em 0.5em;
+  font-size: 1em;
 }
 .home :link:not(:hover) {
   text-decoration: none;
@@ -154,18 +153,22 @@ footer {
   grid-column: 2;
   grid-row-start: 3;
   grid-row-end: 4;
+
+  text-align: center;
 }
 
 /* Nav */
 .nav {
   padding: 0;
+  justify-self: end;
+  /* padding: 0;
   list-style: none;
   float: left;
-  margin-left: 1em;
+  margin-left: 1em; */
 }
 .nav-item {
   display: inline-block;
-  margin-right: 1em;
+  margin: 0em 0.5em;
 }
 .nav-item a[href]:not(:hover) {
   text-decoration: none;
@@ -175,44 +178,46 @@ footer {
   text-decoration: underline;
 }
 
-/* Posts list */
-.postlist {
+/* writings list */
+.writinglist {
   list-style: none;
   padding: 0;
 }
-.postlist-item {
+.writinglist-item {
   counter-increment: start-from -1;
 }
-.postlist-item:before {
+.writinglist-item:before {
   display: inline-block;
   pointer-events: none;
   content: "" counter(start-from, decimal-leading-zero) ". ";
   line-height: 100%;
   text-align: right;
 }
-.postlist-date,
-.postlist-item:before {
+.writinglist-date,
+.writinglist-item:before {
   font-size: 0.8125em; /* 13px /16 */
   color: var(--darkgray);
 }
-.postlist-date {
+.writinglist-date {
   word-spacing: -0.5px;
 }
-.postlist-link {
+.writinglist-link {
   display: inline-block;
   padding: 0.25em 0.1875em; /* 4px 3px /16 */
 }
-.postlist-item-active .postlist-link {
+.writinglist-item-active .writinglist-link {
   font-weight: bold;
 }
-.tmpl-home .postlist-link {
+.tmpl-home .writinglist-link {
   font-size: 1.1875em; /* 19px /16 */
   font-weight: 700;
 }
 
+/* Categorised lists */
+/* TODO: Update css for categorised list */
 
 /* Tags */
-.post-tag {
+.writing-tag {
   display: inline-block;
   vertical-align: text-top;
   text-transform: uppercase;
@@ -224,8 +229,8 @@ footer {
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
 }
-a[href].post-tag,
-a[href].post-tag:visited {
+a[href].writing-tag,
+a[href].writing-tag:visited {
   color: #fff;
 }
 

@@ -1,0 +1,12 @@
+---
+layout: layouts/home.njk
+permalink: /writings/
+eleventyNavigation:
+  title: Writings
+  order: 3
+---
+
+<h1>Writings</h1>
+
+{% set writingslist = collections.writings %}
+{% include "writingslist.njk" %}

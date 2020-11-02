@@ -31,9 +31,6 @@
       <h1 class="home">
         <a href="{{ '/' | url }}">{{ metadata.title }}</a>
       </h1>
-
-      {#- Read more about `eleventy-navigation` at
-      https://www.11ty.dev/docs/plugins/navigation/ #}
       <ul class="nav">
         {%- for entry in collections.all | eleventyNavigation %}
         <li
@@ -49,7 +46,10 @@
       {{ content | safe }}
     </main>
 
-    <footer></footer>
+    <footer>
+      Inspired by <a href="https://www.vrk.dev/">vrk.dev</a> and <a href="http://bettermotherfuckingwebsite.com/">BMFWS</a>.
+      Made with ❤️ using <a href="https://github.com/11ty/eleventy-base-blog">11ty base blog</a>.
+    </footer>
 
     <!-- Current page: {{ page.url | url }} -->
   </body>
