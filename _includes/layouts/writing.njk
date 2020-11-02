@@ -6,7 +6,6 @@ templateClass: tmpl-writing
 
 {{ content | safe }}
 
-<hr>
 <ul>
   {%- set nextwriting = collections.writings | getNextCollectionItem(page) %}
   {%- if nextwriting %}<li>Next: <a href="{{ nextwriting.url | url }}">{{ nextwriting.data.title }}</a></li>{% endif %}
