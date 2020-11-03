@@ -31,6 +31,9 @@
       <h1 class="home">
         <a href="{{ '/' | url }}">{{ metadata.title }}</a>
       </h1>
+      <sub class="subtitle">
+        Musings of a curious developer ت
+      </sub>
       <ul class="nav">
         {%- for entry in collections.all | eleventyNavigation %}
         <li
@@ -40,6 +43,7 @@
         </li>
         {%- endfor %}
       </ul>
+      <hr>
     </header>
 
     <main {% if templateClass %} class="{{ templateClass }}" {% endif %}>
