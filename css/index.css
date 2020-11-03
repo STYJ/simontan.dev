@@ -178,14 +178,14 @@ header > hr {
 
 /* Main */
 main {
-  padding: 0 0.5em;
+  padding: 1em 0.5em;
 
   /* Grid properties */
   grid-column: 2;
   grid-row: 2;
 }
 main :first-child {
-  /* margin-top: 0; */
+  margin-top: 0;
 }
 
 /* Footer */
@@ -199,6 +199,7 @@ footer {
 
   align-self: center;
   text-align: center;
+  font-size: x-small;
 }
 
 /* writings list */
