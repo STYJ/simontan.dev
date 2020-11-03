@@ -1,9 +1,9 @@
 {
   "title": "simontan.dev",
   "url": "https://simontan.dev",
-  "description": "Musings of a curious developer ت",
+  "description": "Musings of a curious developer 🤔",
   "feed": {
-    "subtitle": "Musings of a curious developer ت",
+    "subtitle": "Musings of a curious developer 🤔",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://simontan.dev"
