@@ -1,7 +1,7 @@
 ---
 layout: layouts/home.njk
 ---
-<h1>This is my about page!</h1> 
+<h1>Hi! 👋</h1> 
 
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
@@ -26,7 +26,7 @@ I have a few questions:
 2. I think it's referred to as `eleventyNavigation` as opposed to `nav` tag. You can add this in the front matter of any .njk articles or .md files
 
 {% set maxwritings = collections.writings.length | min(3) %}
-<h1>Latest {% if maxwritings == 1 %}writing{% else %}{{ maxwritings }} writings{% endif %}</h1>
+<h3>Latest {% if maxwritings == 1 %}writing{% else %}{{ maxwritings }} writings{% endif %}</h3>
 
 {% set writingslist = collections.writings | head(-3) %}
 {% set writingslistCounter = collections.writings | length %}
