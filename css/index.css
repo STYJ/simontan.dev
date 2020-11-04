@@ -152,30 +152,6 @@ header > hr {
   font-size: small;
 }
 
-.nav {
-  padding-left: 0;
-  margin: 0;
-  /* padding: 0 0.5em;
-  margin: 1em 0.5em; */
-  /* padding: 0;
-  list-style: none;
-  float: left;
-  margin-left: 1em; */
-}
-
-.nav-item {
-  display: inline-block;
-  font-size: medium;
-  /* margin: 0em 0.5em; */
-}
-.nav-item a[href]:not(:hover) {
-  text-decoration: none;
-}
-.nav-item-active {
-  font-weight: 700;
-  text-decoration: underline;
-}
-
 /* Main */
 main {
   padding: 1em 0.5em;
@@ -204,19 +180,9 @@ footer {
 
 /* writings list */
 .writinglist {
-  list-style: none;
-  padding: 0;
+  list-style: circle;
 }
-.writinglist-item {
-  counter-increment: start-from -1;
-}
-.writinglist-item:before {
-  display: inline-block;
-  pointer-events: none;
-  content: "" counter(start-from, decimal-leading-zero) ". ";
-  line-height: 100%;
-  text-align: right;
-}
+
 .writinglist-date,
 .writinglist-item:before {
   font-size: 0.8125em; /* 13px /16 */
@@ -233,12 +199,8 @@ footer {
   font-weight: bold;
 }
 .tmpl-home .writinglist-link {
-  font-size: 1.1875em; /* 19px /16 */
   font-weight: 700;
 }
-
-/* Categorised lists */
-/* TODO: Update css for categorised list */
 
 /* Tags */
 .writing-tag {

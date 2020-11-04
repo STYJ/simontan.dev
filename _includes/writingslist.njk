@@ -1,5 +1,4 @@
-{# TODO: this should also preview some content #}
-<ol reversed class="writinglist" style="counter-reset: start-from {{ (writingslistCounter or writingslist.length) + 1 }}">
+<ol reversed class="writinglist">
 {% for writing in writingslist | reverse %}
   <li class="writinglist-item{% if writing.url == url %} writinglist-item-active{% endif %}">
     <a href="{{ writing.url | url }}" class="writinglist-link">{% if writing.data.title %}{{ writing.data.title }}{% else %}<code>{{ writing.url }}</code>{% endif %}</a>
