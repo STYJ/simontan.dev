@@ -6,8 +6,8 @@ pagination:
   filter:
     - all
     - nav
-    - writing
-    - writings
+    - post
+    - posts
     - tagList
   addAllPagesToCollections: true
 layout: layouts/home.njk
@@ -19,7 +19,7 @@ permalink: /tags/{{ tag }}/
 
 {# This page is http://localhost:8080/tags/<tag name> #}
 
-{% set writingslist = collections[ tag ] %}
-{% include "writingslist.njk" %}
+{% set postslist = collections[ tag ] %}
+{% include "postslist.njk" %}
 
 <p>See <a href="{{ '/tags/' | url }}">all tags</a>.</p>

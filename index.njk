@@ -5,17 +5,17 @@ layout: layouts/home.njk
 
 <p>My name is Simon.</p>
 
-<img src="./img/ly-and-i.jpg" alt="An image of my wife and I" style="width: 18em;">
+<img src="./img/ly-and-i.jpg" alt="An image of my wife and I">
 
-<p>Here's an image of my beautiful wife and I. No, my eyes are not naturally like that 😅 p.s. don't forget to wear your masks!</p>
+<p>Here's an image of my beautiful wife and I. In case you were wondering, my eyes are not naturally like that 😅 p.s. don't forget to wear your masks!</p>
 
 <p>I blog mostly about software engineering, entrepreneurship and life. These are 3 of my latest posts:</p>
 
-{% set writingslist = collections.writings | head(-3) %}
-{% set writingslistCounter = collections.writings | length %}
-{% include "writingslist.njk" %}
+{% set postslist = collections.posts | head(-3) %}
+{% set postslistCounter = collections.posts | length %}
+{% include "postslist.njk" %}
 
-<p>More can be found in <a href="{{ '/library/' | url }}">the library</a>.</p>
+<p>More articles can be found in <a href="{{ '/library/' | url }}">the library</a>.</p>
 
 <p>I am currently on a sabbatical to discover my <a href="https://g.co/kgs/LWnMvS">ikigai</a>.</p>
 

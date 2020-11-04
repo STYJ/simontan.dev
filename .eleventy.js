@@ -13,7 +13,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.setDataDeepMerge(true);
 
-  eleventyConfig.addLayoutAlias("writing", "layouts/writing.njk");
+  eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
@@ -48,8 +48,8 @@ module.exports = function(eleventyConfig) {
             // this list should match the `filter` list in tags.njk
             case "all":
             case "nav":
-            case "writing":
-            case "writings":
+            case "post":
+            case "posts":
               return false;
           }
 

@@ -35,13 +35,23 @@ p:last-child {
 }
 
 p,
-.tmpl-writing li,
+.tmpl-post li,
 img {
   max-width: 37.5em; /* 600px /16 */
 }
 
+img {
+  width: 282px; /* 282 + 0.5em padding (8px on both side) gives you 300px which is the min size of the second col in the grid */
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 p,
-.tmpl-writing li {
+.tmpl-post li {
   line-height: 1.4;
 }
 
@@ -178,32 +188,32 @@ footer {
   font-size: x-small;
 }
 
-/* writings list */
-.writinglist {
+/* posts list */
+.postlist {
   list-style: circle;
 }
 
-.writinglist-date,
-.writinglist-item:before {
+.postlist-date,
+.postlist-item:before {
   font-size: 0.8125em; /* 13px /16 */
   color: var(--darkgray);
 }
-.writinglist-date {
+.postlist-date {
   word-spacing: -0.5px;
 }
-.writinglist-link {
+.postlist-link {
   display: inline-block;
   padding: 0.25em 0.1875em; /* 4px 3px /16 */
 }
-.writinglist-item-active .writinglist-link {
+.postlist-item-active .postlist-link {
   font-weight: bold;
 }
-.tmpl-home .writinglist-link {
+.tmpl-home .postlist-link {
   font-weight: 700;
 }
 
 /* Tags */
-.writing-tag {
+.post-tag {
   display: inline-block;
   vertical-align: text-top;
   text-transform: uppercase;
@@ -215,8 +225,8 @@ footer {
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
 }
-a[href].writing-tag,
-a[href].writing-tag:visited {
+a[href].post-tag,
+a[href].post-tag:visited {
   color: white;
 }
 

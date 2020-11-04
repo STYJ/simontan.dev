@@ -10,20 +10,20 @@ eleventyExcludeFromCollections: true
 	{% set absoluteUrl %}{{ metadata.feed.path | url | absoluteUrl(metadata.url) }}{% endset %}
 	<link href="{{ absoluteUrl }}" rel="self"/>
 	<link href="{{ metadata.url }}"/>
-	<updated>{{ collections.writings | rssLastUpdatedDate }}</updated>
+	<updated>{{ collections.posts | rssLastUpdatedDate }}</updated>
 	<id>{{ metadata.feed.id }}</id>
 	<author>
 		<name>{{ metadata.author.name }}</name>
 		<email>{{ metadata.author.email }}</email>
 	</author>
-	{%- for writing in collections.writings | reverse %}
-	{% set absolutewritingUrl %}{{ writing.url | url | absoluteUrl(metadata.url) }}{% endset %}
+	{%- for post in collections.posts | reverse %}
+	{% set absolutepostUrl %}{{ post.url | url | absoluteUrl(metadata.url) }}{% endset %}
 	<entry>
-		<title>{{ writing.data.title }}</title>
-		<link href="{{ absolutewritingUrl }}"/>
-		<updated>{{ writing.date | rssDate }}</updated>
-		<id>{{ absolutewritingUrl }}</id>
-		<content type="html">{{ writing.templateContent | htmlToAbsoluteUrls(absolutewritingUrl) }}</content>
+		<title>{{ post.data.title }}</title>
+		<link href="{{ absolutepostUrl }}"/>
+		<updated>{{ post.date | rssDate }}</updated>
+		<id>{{ absolutepostUrl }}</id>
+		<content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutepostUrl) }}</content>
 	</entry>
 	{%- endfor %}
 </feed>
