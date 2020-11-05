@@ -41,7 +41,7 @@ img {
 }
 
 img {
-  width: 282px; /* 282 + 0.5em padding (8px on both side) gives you 300px which is the min size of the second col in the grid */
+  width: 50%
 }
 
 .center {
