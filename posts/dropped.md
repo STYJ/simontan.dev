@@ -6,7 +6,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-
 <div style="overflow-x:auto;">
   <table>
     <thead>
@@ -69,6 +68,5 @@ layout: layouts/post.njk
         </td>
       </tr>
     </tbody>
-    
   </table>
 </div>
