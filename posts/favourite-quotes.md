@@ -6,7 +6,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Some motivational quotes? that I am fortunate enough to chance upon (and some mine!) as I figure out the meaning of life. I believe these are worth sharing and maybe this might help someone out there. In no particular order:
+Some motivational quotes that I am fortunate enough to chance upon (some of which are mine lol!) as I figure out the meaning of life. I believe these are worth sharing and maybe this might help someone out there. In no particular order:
 
 > Don't join a company simply to learn because learning can be done anywhere. You want to join a company to pick up skills that will help you to achieve your long term goal. - Aaron (IRL friend)
 
