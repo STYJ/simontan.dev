@@ -2,7 +2,7 @@
 title: Dropped Projects
 date: 2020-06-11
 tags:
-  - Projects
+  - projects
 layout: layouts/post.njk
 ---
 
