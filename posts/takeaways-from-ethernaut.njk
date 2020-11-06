@@ -8,14 +8,11 @@ tags:
 layout: layouts/post.njk
 ---
 
-<img
-  src="../../img/openzeppelin.svg"
-  alt="OpenZeppelin Logo"
-  style="width: 30%;"
-/>
+<img src="/img/openzeppelin.svg" alt="OpenZeppelin Logo" style="width: 30%;"/>
 
 <p>
-  There are many tools to help new Solidity developers learn more about writing secure smart contracts, one of which is <a href="https://ethernaut.openzeppelin.com/">Ethernaut</a>.
+  There are many tools to help new Solidity developers learn more about writing secure smart contracts, one of which is
+  <a href="https://ethernaut.openzeppelin.com/">Ethernaut</a>.
 </p>
 <p>
   Ethernaut is a series of challenges represented as levels and at each level, you are given a contract that you need to claim ownership of in order to complete the level. You must use whatever means possible to exploit the bug in the contract. These levels get progressively harder the higher you go.
@@ -32,19 +29,26 @@ layout: layouts/post.njk
 <p>
   There's a very popular saying that goes something like...
   <blockquote>Don't play with fire if you don't want to get burned.</blockquote>
-  <img src="../../img/floor-is-lava.gif" alt="A gif of a kid being carried on a rotating machine."><a href="https://media.giphy.com/media/60dMMoZ2Tc5IQ/giphy.gif">[1]</a>
+  <img src="/img/floor-is-lava.gif" alt="A gif of a kid being carried on a rotating machine.">
+  <a href="https://media.giphy.com/media/60dMMoZ2Tc5IQ/giphy.gif">[1]</a>
 </p>
 
 <p>
-  This quote is especially applicable to new developers who might be frustrated with the limitations of Solidity and are looking for alternatives like <a href="https://solidity.readthedocs.io/en/latest/assembly.html">inline assembly</a> without first considering all possible workarounds to the current constraints.
+  This quote is especially applicable to new developers who might be frustrated with the limitations of Solidity and are looking for alternatives like
+  <a href="https://solidity.readthedocs.io/en/latest/assembly.html">inline assembly</a>
+  without first considering all possible workarounds to the current constraints.
 </p>
 
 <p>
-  Solidity is a high level language like Python and Java so understandably, there are many well intended restrictions put in place to reduce the risk of an unintended bug in your smart contract. Yet despite all these, there are <a href="https://blog.polymath.network/solidity-tips-and-tricks-to-save-gas-and-reduce-bytecode-size-c44580b218e6">many cool things</a> that you can do with Solidity that even an experienced developer might not be aware of!
+  Solidity is a high level language like Python and Java so understandably, there are many well intended restrictions put in place to reduce the risk of an unintended bug in your smart contract. Yet despite all these, there are
+  <a href="https://blog.polymath.network/solidity-tips-and-tricks-to-save-gas-and-reduce-bytecode-size-c44580b218e6">many cool things</a>
+  that you can do with Solidity that even an experienced developer might not be aware of!
 </p>
 
 <p>
-  While inline assembly gives you very fine-grained control and it is really <a href="https://blog.ricmoo.com/wisps-the-magical-world-of-create2-5c2177027604">very cool</a>, there are much fewer resources and help online. If you do decide to use it, be extra careful, verify your logic multiple times and don't forget to <a href="https://en.wikipedia.org/wiki/KISS_principle">KISS</a>!
+  While inline assembly gives you very fine-grained control and it is really
+  <a href="https://blog.ricmoo.com/wisps-the-magical-world-of-create2-5c2177027604">very cool</a>, there are much fewer resources and help online. If you do decide to use it, be extra careful, verify your logic multiple times and don't forget to
+  <a href="https://en.wikipedia.org/wiki/KISS_principle">KISS</a>!
 </p>
 
 <h2>
@@ -56,7 +60,14 @@ layout: layouts/post.njk
 </p>
 
 <p>
-  It is imperative to remember that these best practices are not set in stone and might potentially change with each network upgrade. For example, prior to the Instanbul hardfork, <code>.send()</code> and <code>.transfer()</code> were considered the safer way to send ETH however, this is no longer true. It is now better to use <code>.call()</code> since it forwards all remaining gas to the receiving address. You can read more about this <a href="https://diligence.consensys.net/blog/2019/09/stop-using-soliditys-transfer-now/">here</a>. In fact, what is mentioned in this paragraph may no longer be relevant by the time you read this article!
+  It is imperative to remember that these best practices are not set in stone and might potentially change with each network upgrade. For example, prior to the Instanbul hardfork,
+  <code>.send()</code>
+  and
+  <code>.transfer()</code>
+  were considered the safer way to send ETH however, this is no longer true. It is now better to use
+  <code>.call()</code>
+  since it forwards all remaining gas to the receiving address. You can read more about this
+  <a href="https://diligence.consensys.net/blog/2019/09/stop-using-soliditys-transfer-now/">here</a>. In fact, what is mentioned in this paragraph may no longer be relevant by the time you read this article!
 </p>
 
 <h2>
@@ -68,7 +79,8 @@ layout: layouts/post.njk
 </p>
 
 <p>
-  Fulcrum was probably the next big lending platform in the DeFi space but unfortunately for the bZx team, they were on the receiving end of a <a href="https://bzx.network/blog/mea-culpa">flash loan "attack"</a>.
+  Fulcrum was probably the next big lending platform in the DeFi space but unfortunately for the bZx team, they were on the receiving end of a
+  <a href="https://bzx.network/blog/mea-culpa">flash loan "attack"</a>.
 </p>
 
 <p>
@@ -85,5 +97,3 @@ layout: layouts/post.njk
 <p>
   Thanks for reading and tread forward cautiously!
 </p>
-
-
