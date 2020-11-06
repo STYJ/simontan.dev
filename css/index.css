@@ -63,11 +63,18 @@ a[href]:visited {
 }
 
 table {
-  margin: 1em 0;
+  table-layout: fixed;
+  width: 100%;
 }
+
 table td,
 table th {
-  padding-right: 1em;
+  vertical-align: bottom;
+  padding: 0 1em;
+}
+
+table, th, td {
+  border: 1px solid black;
 }
 
 pre,
