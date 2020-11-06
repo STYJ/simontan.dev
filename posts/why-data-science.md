@@ -1,6 +1,6 @@
 ---
 title: Why data science?
-date: 2020-06-28
+date: 2020-07-05
 tags:
   - data science
   - learn in public
