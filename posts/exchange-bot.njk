@@ -6,58 +6,40 @@ tags:
 layout: layouts/post.njk
 ---
 
-<img
-  src="../../img/exchange-bot.png"
-  alt="A screenshot of the user interface of my exchange bot"
-/>
+<img src="../../img/exchange-bot.png" alt="A screenshot of the user interface of my exchange bot"/>
 
 <h2>What is this project about?</h2>
 
 <p>
-  I built a telegram bot to find a list of exchanges that offer the specified
-  cryptocurrency as a trading pair. The bot will also return the 24 hour rolling
-  volume for each exchange, sort the results according to price and also find
-  the top traded pairs for each exchange.
+  I built a telegram bot to find the exchanges that offer the specified cryptocurrency as a trading pair. The bot will also return the 24 hour rolling volume for each exchange, sort the results according to price and also find the top traded pairs for each exchange.
 </p>
 
-<h2>Why did I start this project?</h2>
+<h2>Why did I do this?</h2>
 
 <p>
-  I was spending too much time on the manual process of determining which
-  exchanges offer the trading pair I am interested in.
+  I was spending too much time trying to figure out which exchanges offer the trading pairs I am interested in since this process is entirely manual.
 </p>
 
 <h2>How did I do it?</h2>
 
 <p>
   A friend of mine recommended the
-  <a href="https://github.com/python-telegram-bot/python-telegram-bot"
-    >PythonTelegramBot</a
-  >
-  library to build the telegram bot. I also had to rely on web scraping via
-  <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/"
-    >BeautifulSoup</a
-  >
-  because the website that I was pulling this information from (<a
-    href="https://coinmarketcap.com/"
-    >CoinMarketCap</a
-  >) did not offer free APIs that provided this information.
+  <a href="https://github.com/python-telegram-bot/python-telegram-bot">PythonTelegramBot</a >
+  library to build the telegram bot. I had to also rely on web scraping via
+  <a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/">BeautifulSoup</a >
+  because <a href="https://coinmarketcap.com/">CoinMarketCap</a > (the website that I was pulling data from) did not offer free APIs that provided this.
 </p>
 
 <h2>Extras</h2>
 
 <p>
-  My exchange bot actually worked for a bit but because coinmarketcap kept changing their
-  frontend code structure, my web scraping algorithm would often break. It got to a
-  point where almost every upgrade broke the bot and I was really annoyed so
-  after a few months of usage (and declining interests in purchasing
-  cryptocurrencies), I decided that I will no longer maintain the bot.
+  My exchange bot actually worked for a bit but because CoinMarketCap kept changing their frontend code structure, my web scraping algorithm would often break. It got to a point where almost every upgrade broke the bot and I was really annoyed so after a few months of usage (and declining interests in purchasing cryptocurrencies), I decided that I will no longer maintain the bot.
 </p>
 
 <p>
-  The <a href="https://github.com/STYJ/Exchange-Bot">repo</a>
-  is currently archived but you can
-  fork the repo if you want to use it. Do note that it is <strong>very</strong> unlikely to
-  work out of the box. You probably also want to first check if newer APIs have
-  been introduced to CoinMarketCap or CoinGecko!
+  The
+  <a href="https://github.com/STYJ/Exchange-Bot">repo</a>
+  is currently archived but you can fork the repo if you want to use it. Do note that it is
+  <strong>very</strong>
+  unlikely to work out of the box. You probably also want to first check if newer APIs have been introduced to CoinMarketCap or CoinGecko!
 </p>

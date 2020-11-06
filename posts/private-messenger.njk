@@ -1,0 +1,67 @@
+---
+title: Private Messenger
+date: 2019-07-03
+tags:
+  - projects
+layout: layouts/post.njk
+---
+
+<img
+  src="../../img/private-messenger.png"
+  alt="OpenZeppelin Logo"
+  style="width: 100%;"
+/>
+
+<p>
+  <em>
+    Edit (6th Nov 2020): It seems like the messenger app is also no longer working since the "Connect Metamask" button broke from an upgrade on metamask's end...
+  </em> 😩
+  <em>
+    I will get around to fixing it one of these days!
+  </em>
+</p>
+
+<h2>What is this project about?</h2>
+
+<p>
+  I built a peer-to-peer messenging web app that focuses on privacy - more specifically, using your ethereum address as a unique identifier to your user and that none of the conversations are saved anywhere.
+</p>
+
+<h2>Why did I do this?</h2>
+
+<p>
+  I recently completed a <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/">frontend course on udemy</a> (no, I'm not paid to promote this!) and I was curious to see how much I managed to absorb from the course.
+</p>
+
+<p>
+  I also wanted to build something that is related to privacy because of an increasing concern with digital privacy. It is quite scary how much our digital footprints reveal about us but yet, we put the safety and security of our data on the back burner because of the many benefits that we derive from using the internet.
+</p>
+
+
+<h2>How did I do it?</h2>
+
+<p>
+  This proof of concept web app was hacked together over a few weeks using:
+  <ul>
+    <li>
+      <a href="https://metamask.io/">metamask</a> for connecting the app to your ethereum address
+    </li>
+    <li>
+      <a href="https://web3js.readthedocs.io/en/latest/">web3.js</a> for accessing your ethereum address programmatically
+    </li>
+    <li>
+      <a href="https://peerjs.com/">peerjs</a> for handling the peer-to-peer connection
+    </li>
+    <li>
+      <a href="https://vuejs.org/">vue.js</a> is the frontend framework used
+    </li>
+    <li>
+      <a href="https://vuetifyjs.com/en/">veutify</a> for its prebuilt UI components
+    </li>
+  </ul>
+</p>
+
+<h2>Extras</h2>
+<p>
+  You can try out the demo <a href="https://styj.github.io/private-messenger/">here</a> but I highly recommend running it locally instead i.e. clone the repo, spin up a local instance and voilà! The source code for this proof of concept can be found on <a href="https://github.com/STYJ/private-messenger">github</a>.
+</p>
