@@ -6,8 +6,69 @@ tags:
 layout: layouts/post.njk
 ---
 
-| Project Name         | Date        | Reason                                                                                     | Source                                                      |
-| -------------------- | ----------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| Sawtooth identity tp | 1 Jun 2018  | Lost interest in Hyperledger as majority of blockchain activity was occuring on Ethereum.  | [github repo](https://github.com/STYJ/sawtooth-identity-tp) |
-| Recur.eth            | 29 Oct 2019 | Lost motivation to continue.                                                               | [github repo](https://github.com/STYJ/Recur.eth)            |
-| LearnBlockchain.dev  | 11 Jun 2020 | I was not knowledgeable enough to continue and I also lost interest in teaching I guess... | [github repo](https://github.com/STYJ/LearnBlockchain.dev)  |
+
+<div style="overflow-x:auto;">
+  <table>
+    <thead>
+      <tr>
+        <th>
+          Project Name
+        </th>
+        <th>
+          Date
+        </th>
+        <th>
+          Reason
+        </th>
+        <th>
+          Source
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          Sawtooth identity tp
+        </td>
+        <td>
+          1 Jun 2018
+        </td>
+        <td>
+          Lost interest in Hyperledger as majority of blockchain activity was occuring on Ethereum.
+        </td>
+        <td>
+          <a href="https://github.com/STYJ/sawtooth-identity-tp">github repo</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Recur.eth
+        </td>
+        <td>
+          29 Oct 2019
+        </td>
+        <td>
+          Lost motivation to continue.
+        </td>
+        <td>
+          <a href="https://github.com/STYJ/Recur.eth">github repo</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          LearnBlockchain.dev
+        </td>
+        <td>
+          11 Jun 2020
+        </td>
+        <td>
+          I was not knowledgeable enough to continue and I also lost interest in teaching I guess...
+        </td>
+        <td>
+          <a href="https://github.com/STYJ/LearnBlockchain.dev">github repo</a>
+        </td>
+      </tr>
+    </tbody>
+    
+  </table>
+</div>

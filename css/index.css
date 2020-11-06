@@ -37,7 +37,9 @@ p:last-child {
 p,
 .tmpl-post li,
 img,
-pre {
+pre,
+table,
+blockquote {
   max-width: 37.5em; /* 600px /16 */
 }
 
@@ -64,7 +66,6 @@ a[href]:visited {
 }
 
 table {
-  table-layout: fixed;
   width: 100%;
 }
 
