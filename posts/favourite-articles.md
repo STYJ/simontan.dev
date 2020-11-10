@@ -9,12 +9,14 @@ layout: layouts/post.njk
 A collection of articles that I enjoy reading and have / will re-read in the future.
 
 # Personal
-- https://simontan.dev/posts/what-do-i-want-in-life/
+- [A journey of self discovery](https://simontan.dev/posts/a-journey-of-self-discovery/)
 
 # Life advice
-- https://news.stanford.edu/2005/06/14/jobs-061505/
-- https://medium.com/@weiping.sim/7-tips-that-you-should-know-about-finding-your-purpose-710d988f96d6
+- [Steve Jobs' 2005 Stanford Commencement Address](https://news.stanford.edu/2005/06/14/jobs-061505/)
+- [7 Tips that You Should Know about Finding Your Purpose](https://medium.com/@weiping.sim/7-tips-that-you-should-know-about-finding-your-purpose-710d988f96d6)
+- [Why You Should Never Chase Your Passion](https://www.huffpost.com/entry/why-you-should-never-chase-your-passion_b_58e42f04e4b09dbd42f3db97)
+- ["Following Your Passion' Is Dead" - Here's What To Replace It With](https://www.forbes.com/sites/michalbohanes/2018/07/05/following-your-passion-is-dead-heres-what-to-replace-it-with/?sh=183681317f83)
+- [Stop searching for your passion](https://www.youtube.com/watch?v=6MBaFL7sCb8) (not an article but still worth sharing!)
 
 # Communication
-- http://www.paulgraham.com/useful.html
-
+- [How to write usefully](http://www.paulgraham.com/useful.html)
