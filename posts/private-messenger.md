@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-<img src="/img/private-messenger.png" alt="A screenshot of the user interface of the private messenger"/>
+<img class="center" src="/img/private-messenger.png" alt="A screenshot of the user interface of the private messenger"/>
 
 _Edit (6th Nov 2020): It seems like the messenger app is also no longer working since the "Connect Metamask" button broke from an upgrade on metamask's end..._ 😩 _I will get around to fixing it one of these days!_
 
