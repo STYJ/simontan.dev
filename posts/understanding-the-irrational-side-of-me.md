@@ -2,11 +2,13 @@
 title: Understanding the irrational side of me
 date: 2020-10-06
 tags:
-  - life
+  - self
 layout: layouts/post.njk
 ---
 
-I started reading a book called **The Laws of Human Nature** by Robert Greene to learn more about human psychology, with hopes that one day, I will be able to reach a point where I truly understand myself. One of the many lessons that Robert emphasizes is that _you think you are rational, but you are not_. To better understand the irrational side of me, I am going to start a journal to actively track my behaviour / reaction to certain incidents, why I acted in a particular way, what emotions were running through my head and the root cause for said emotions and how I _should_ respond if I were to encounter a similar incident again.
+I started reading a book called **The Laws of Human Nature** by Robert Greene to learn more about human psychology, with hopes that one day, I will be able to reach a point where I truly understand myself. One of the many lessons that Robert emphasizes is that _you think you are rational, but you are not_.
+
+To better understand the irrational side of me, I am going to start a journal to actively track my behaviour / reaction to certain incidents, why I acted in a particular way, what emotions were running through my head and the root cause for said emotions and how I _should_ respond if I were to encounter a similar incident again.
 
 Here's a snippet from the book to get us started!
 
