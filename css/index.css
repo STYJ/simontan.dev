@@ -24,6 +24,7 @@ p,
 .tmpl-post li,
 img,
 pre,
+code,
 table,
 blockquote {
   max-width: 50rem; /* 600px /16 */
