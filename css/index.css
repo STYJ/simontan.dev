@@ -210,7 +210,9 @@ pre {
 
 
 img {
-  width: 75%
+  width: 75%;
+  border: 1px solid var(--lightgray);
+
 }
 
 .center {
