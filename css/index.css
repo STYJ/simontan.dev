@@ -206,12 +206,6 @@ table {
   border-collapse: collapse;
 }
 
-table td,
-table th {
-  vertical-align: top;
-  padding: 0 1em;
-}
-
 table, th, td {
   border: 1px solid black;
 }
