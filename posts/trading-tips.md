@@ -2,7 +2,8 @@
 title: How to suck less at trading ft. me
 date: 2020-10-06
 tags:
-  - life
+  - self
+  - trading
 layout: layouts/post.njk
 ---
 
