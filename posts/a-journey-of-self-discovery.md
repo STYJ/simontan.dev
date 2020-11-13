@@ -2,7 +2,7 @@
 title: A journey of self discovery
 date: 2020-11-10
 tags:
-  - life
+  - self
 layout: layouts/post.njk
 ---
 
