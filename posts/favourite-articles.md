@@ -20,3 +20,10 @@ A collection of articles that I enjoy reading and have / will re-read in the fut
 
 # Communication
 - [How to write usefully](http://www.paulgraham.com/useful.html)
+
+# Engineering
+- [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+- [The Twelve-Factor App](https://www.12factor.net/)
+- [Who could be your Jeff Dean?](https://www.theengineeringmanager.com/growth/who-could-be-your-jeff-dean)
+- [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
