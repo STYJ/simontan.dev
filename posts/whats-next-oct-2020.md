@@ -2,22 +2,18 @@
 title: What's next? Oct 2020 ed.
 date: 2020-10-11
 tags:
-  - life
+  - self
 layout: layouts/post.njk
 ---
 
 Halo internet, time for a quick update on life!
 
-I'm very happy to see the product that my colleagues and I helped build finally [go live](https://medium.com/xfers-sg/introducing-xsgd-the-singapore-dollar-backed-and-travel-rule%C2%B9-compliant-stablecoin-753ea48c7b8e) last week! That said, my last day at Xfers is actually on end of Oct. 
+I am extremely happy to see the product that my colleagues and I helped build finally [go live](https://medium.com/xfers-sg/introducing-xsgd-the-singapore-dollar-backed-and-travel-rule%C2%B9-compliant-stablecoin-753ea48c7b8e) last week! As all good things must come to an end, so is my journey with Xfers. My last day at Xfers is on 31st Oct.
 
-Long story short, I am leaving to find something more meaningful to do in life. The average person spends about 90,000 hours at work over a lifetime (which is A LOT mind you!) so if you're not having fun and enjoying what you are doing, why work? Money can be easily made anywhere else since we are developers after all.
+My reason for leaving is mostly because work was just that, work. It was not fun nor meaningful. The average person spends about 90,000 hours at work over a lifetime (which is A LOT mind you!) so if you're not having fun and enjoying what you are doing, why work? As such, I decided to take a sabbatical to explore my own personal interests, to focus on learning and really try to maximise growth.
 
-My first priority after leaving will be tracing.money. While not necessarily aligned with my definition of meaningful and fun, I am focusing on it because I want to still be able to earn some side income while I slowly figure life out. I believe it is possible to make money by mimicking the trades of the most profitable DEX users; I just need to find out who they are. 
+My first priority after leaving will be tracing.money. Tracing.money is an automated data analysis bot that monitors the buy and sell volume on DEXes. By analysing the historical trading activity, the bot will report to me when there are irregularities. For example, the average token sold in the past 100 blocks is higher than the average token sold in the past 1000 blocks which might indicate a down trend. I am also planning to learn rust to make tracing.money because I think rust will be the next big thing in game development.
 
-Moreover, there's no shortage of blockchain developer jobs at the moment so I have, to some extent, a safety net (along with my crypto investments & my savings in the bank). What's the worst that can happen? Everything fails, I run out of money and I go back to a 9-5 job. Waifu has given me 6 months after leaving to start generating some money so I'm not going to spend that time frivolously.
+After which, I plan to do a deep dive into the Ethereum world computer, brushing up on my smart contract development skills, understanding best practices, learning about ETH 2.0, the EVM etc. I really want to try my hands at contributing to an open source project as well. I want to also continue with game development on the side. There's this new game engine called [Bevy](https://bevyengine.org/) that I am really excited to try!
 
-I have also been getting distracted by my numerous interests (smart contract development, multiplayer game dev, web assembly etc) lately. This constant struggle between my rational and irrational mind is why I need to constantly remind myself that I should focus on one project at a time otherwise I may never complete any of them.
-
-In fact, I have dropped more projects this year than the past 2 years combined! Needless to say, I am very disappointed with myself for that. Frankly, I am also not very satisfied with the projects I've done to date (except maybe [Dodge the Creeps](../my-first-game)) so I really want to commit and give it my all for the next project that I will be working on! We shall see if I live up to my words in a few months.
-
-That's about it for this update. Stay safe and stay hungry!
+I will also be documenting my learning process here and will share on twitter when new articles go live so if you haven't already followed [me on twitter](https://twitter.com/itsmeSTYJ), go do it now! That's about it for this update. Stay safe and stay hungry!
