@@ -16,6 +16,8 @@ https://doc.rust-lang.org/stable/rust-by-example/hello/print/print_debug.html
 
 https://doc.rust-lang.org/stable/rust-by-example/hello/print/print_display.html
 
+Note that implementing `fmt::Display` will also automatically provide `to_string` functionality.
+
 ```rust
 use std::fmt;
 
@@ -58,3 +60,14 @@ https://doc.rust-lang.org/stable/rust-by-example/custom_types/structs.html
 
 https://dev.to/hertz4/rust-module-essentials-12oi
 
+- How to type cast
+
+https://doc.rust-lang.org/stable/rust-by-example/types/cast.html
+
+- `from` vs `into` traits
+
+https://doc.rust-lang.org/stable/rust-by-example/conversion/from_into.html
+
+- Understanding `if let`
+
+https://doc.rust-lang.org/stable/rust-by-example/flow_control/if_let.html
