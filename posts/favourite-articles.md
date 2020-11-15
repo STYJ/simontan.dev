@@ -27,3 +27,6 @@ A collection of articles that I enjoy reading and have / will re-read in the fut
 - [Who could be your Jeff Dean?](https://www.theengineeringmanager.com/growth/who-could-be-your-jeff-dean)
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
+
+# Entrepreneurship
+- [How to get startup ideas](http://paulgraham.com/startupideas.html)
