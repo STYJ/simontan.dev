@@ -45,3 +45,16 @@ Compare complex:
 Display: 3.3 + 7.2i
 Debug: Complex { real: 3.3, imag: 7.2 }
 ```
+
+- What is `..` when used before a struct e.g. `let bottom_right = Point { x: 5.2, ..point };`
+  
+https://doc.rust-lang.org/book/ch05-01-defining-structs.html#creating-instances-from-other-instances-with-struct-update-syntax
+
+- How to destructure structs
+
+https://doc.rust-lang.org/stable/rust-by-example/custom_types/structs.html
+
+- `mod xxx` vs `use xxx` 
+
+https://dev.to/hertz4/rust-module-essentials-12oi
+
