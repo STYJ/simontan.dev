@@ -71,3 +71,41 @@ https://doc.rust-lang.org/stable/rust-by-example/conversion/from_into.html
 - Understanding `if let`
 
 https://doc.rust-lang.org/stable/rust-by-example/flow_control/if_let.html
+
+- Static methods in impl
+
+https://doc.rust-lang.org/stable/rust-by-example/fn/methods.html
+
+The difference between static and instance methods is the self param. Note that it doesn't necessarily always need to be `&self`. you also access static methods using `::` instead of `.`.
+
+- What are closures?
+
+https://doc.rust-lang.org/stable/rust-by-example/fn/closures.html
+
+- Understanding file hierarchy with `mod`
+
+https://doc.rust-lang.org/stable/rust-by-example/mod/split.html
+
+- What are attributes
+
+https://doc.rust-lang.org/stable/rust-by-example/attribute.html
+
+- What is the `drop` trait?
+
+https://doc.rust-lang.org/stable/rust-by-example/scope/raii.html#destructor
+
+Note you can also call the `drop()` function directly to drop it prematurely.
+
+- On mutability and ownership
+
+Mutability of data can be changed when ownership is transferred e.g. transferring from immutable var to a mutable var. 
+
+- What's a trait?
+
+https://doc.rust-lang.org/stable/rust-by-example/trait.html
+
+[Common traits](https://doc.rust-lang.org/stable/rust-by-example/trait/derive.html)
+
+- What is `box` and `dyn`?
+
+https://doc.rust-lang.org/stable/rust-by-example/trait/dyn.html
