@@ -38,7 +38,7 @@ This is a live document I've created to help me with the process of discovering 
 # Areas where I want to improve on
 - Smart contract development
 - Deconstructing technical concepts for non technical folks (writing / video)
-- Having the perseverance to stick through something once I've committed
+- Having the perseverance and patience to stick through something once I've committed
 
 # Interests that I want to explore
 - Zero knowledge proofs
