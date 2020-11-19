@@ -17,7 +17,7 @@ This is a live document I've created to help me with the process of discovering 
 # Tenets I try to live by
 - Time is your most important asset. Choose wisely what you spend your time on.
 - It is okay to be afraid of failure and rejection. You need to find the courage within to keep pressing forward.
-- Regret means there was a correct choice and you made the wrong one. Make that decision for yourself.
+- The only regret that you can have is not making that decision for yourself. Regardless of what you choose, there'll be things you like and dislike. 
 - Honesty triumphs everything. Don't let others doubt your true intentions.
 - The biggest risk is not taking enough risks. Sometimes all you need to do is to take that first step.
 - Life is not a zero sum game. Do well by doing good.
@@ -38,7 +38,7 @@ This is a live document I've created to help me with the process of discovering 
 # Areas where I want to improve on
 - Smart contract development
 - Deconstructing technical concepts for non technical folks (writing / video)
-- Having the perseverance to stick through something once I've committed
+- Having the perseverance and patience to stick through something once I've committed
 
 # Interests that I want to explore
 - Zero knowledge proofs

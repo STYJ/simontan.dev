@@ -60,6 +60,10 @@ https://doc.rust-lang.org/stable/rust-by-example/custom_types/structs.html
 
 https://dev.to/hertz4/rust-module-essentials-12oi
 
+- How to use a sibling module i.e. in 2 modules in the same directory
+
+https://users.rust-lang.org/t/solved-how-to-use-a-sibling-module/33173
+
 - How to type cast
 
 https://doc.rust-lang.org/stable/rust-by-example/types/cast.html
