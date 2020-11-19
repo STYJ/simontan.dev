@@ -46,3 +46,8 @@ This is a live document I've created to help me with the process of discovering 
 
 # What I'm bad at
 - Trading lol
+
+# Reminder to self
+- Find what works for you.
+- Do not compare yourself to others.
+- Good things will come to those who wait.
