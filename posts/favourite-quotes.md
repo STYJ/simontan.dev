@@ -33,3 +33,5 @@ Some motivational quotes that I am fortunate enough to chance upon (some of whic
 > People who call themselves realists are often just dreamers who got their hearts broken somewhere along the way - Ashley Stahl
 
 > Life is never black and white. In fact, it's not even mostly grey. Life is an ever-changing colour similar to that of the iridescent hue of a rainbow. - Simon (me!)
+
+> Per aspera ad astra (Through hardships to the stars) - Not sure...

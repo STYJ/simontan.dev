@@ -193,7 +193,7 @@ Better to err on the side on products with competitors. Usually no competitors i
 
 Sitting down and thinking about it is not necessarily the best way to come up with ideas. Try and notice them organically instead but in order to notice them, you need to first know how to recognise them. Working at the forefront of some field lets you see startup ideas before others.
 
-1. Start with what your team is especially good at.Think of ideas that you have an unfair advantage at execution. Any ideas that are generated this way have founder / market fit.
+1. Start with what your team is especially good at. Think of ideas that you have an unfair advantage at execution. Any ideas that are generated this way have founder / market fit.
 2. Think of things that you wish someone else would build for you.
 3. What would you be excited to work on for 10 years even if you didn't succeed. This can also lead founders astray because it might be something the founders are very passionate about but might not have a clear path to being a big business.
 4. Look for things in the world might have changed recently e.g. new technology, new regulation, new problem etc. What are waves you can ride?
