@@ -34,4 +34,4 @@ Some motivational quotes that I am fortunate enough to chance upon (some of whic
 
 > Life is never black and white. In fact, it's not even mostly grey. Life is an ever-changing colour similar to that of the iridescent hue of a rainbow. - Simon (me!)
 
-> Per aspera ad astra (Through hardships to the stars) - Not sure...
+> Per aspera ad astra (Through hardships to the stars) - Not sure... 🤔
