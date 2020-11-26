@@ -3,6 +3,7 @@ title: Impermanent Loss Calculator
 date: 2020-10-18
 tags:
   - projects
+  - uniswap
 layout: layouts/post.njk
 ---
 
