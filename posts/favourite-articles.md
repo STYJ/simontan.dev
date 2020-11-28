@@ -1,5 +1,5 @@
 ---
-title: Favourite Articles
+title: Favourite Articles / Videos
 date: 2020-10-19
 tags:
   - life
@@ -16,7 +16,7 @@ A collection of articles that I enjoy reading and have / will re-read in the fut
 - [7 Tips that You Should Know about Finding Your Purpose](https://medium.com/@weiping.sim/7-tips-that-you-should-know-about-finding-your-purpose-710d988f96d6)
 - [Why You Should Never Chase Your Passion](https://www.huffpost.com/entry/why-you-should-never-chase-your-passion_b_58e42f04e4b09dbd42f3db97)
 - ["Following Your Passion' Is Dead" - Here's What To Replace It With](https://www.forbes.com/sites/michalbohanes/2018/07/05/following-your-passion-is-dead-heres-what-to-replace-it-with/?sh=183681317f83)
-- [Stop searching for your passion](https://www.youtube.com/watch?v=6MBaFL7sCb8) (not an article but still worth sharing!)
+- [Stop searching for your passion](https://www.youtube.com/watch?v=6MBaFL7sCb8)
 
 # Communication
 - [How to write usefully](http://www.paulgraham.com/useful.html)
@@ -30,5 +30,6 @@ A collection of articles that I enjoy reading and have / will re-read in the fut
 
 # Entrepreneurship
 - [How to get startup ideas](http://paulgraham.com/startupideas.html)
+- [How to evaluate startup ideas](https://www.ycombinator.com/library/6e-how-to-evaluate-startup-ideas)
 - [Do things that don't scale](http://paulgraham.com/ds.html)
 - [How to build the future](https://www.ycombinator.com/future/sam)
