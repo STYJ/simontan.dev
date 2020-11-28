@@ -197,3 +197,37 @@ TLDR: A list of things to remember if you want to prepare yourself to start a st
 - How to balance between technical jargon pitch vs non technical ones? You have to do both. **Different pitch for different groups of users.**
 - The best pitches make investors want to join the company.
 - If you have to ask whether or not you have product market fit, the answer is probably no. On the other hand, you're so busy and you have so many customers coming in and asking questions and you're too busy to ask questions like "how do I hire", "how do i serve my customers" **and you're making money** then that's probably product market fit.
+
+--- 
+
+## How to evaluate startup ideas by Kevin Hale
+
+Even though this isn't part of the future founder's track, I just thought I'd add it here as well because I found this very useful.
+
+[source](https://www.ycombinator.com/library/6e-how-to-evaluate-startup-ideas)
+
+- YC defines startup as a company that is designed to grow very quickly. There's nothing against small businesses, just that investors are generally more interested in those that grow really fast.
+- There are good investors and there are bad investors. Bad investors will poke holes in your business, like trying to show how smart they are. Good investors will listen to you, try to envision what you are telling them and pitch your idea back to you as to what they think your business needs to do to become a unicorn.
+- A startup needs to have 3 things:
+  - a problem
+  - a solution
+  - an insight
+- A problem is like the initial setting. What are the conditions as to why this business will grow quickly.
+- A good problem is one with the following:
+  - popular (i.e. many people have them)
+  - growing (e.g. growing industry)
+  - urgent (need to be solved very quickly)
+  - expensive 
+  - mandatory (e.g. new regulation)
+  - frequent
+- You don't necessarily need to have every factor but of course the more the better.
+- Your solution is also the experiment that you want to carry out to test your hypothesis (problem) within the aforementioned conditions for it to grow quickly.
+- Also don't start with a solution otherwise you're basically a solution in search of a problem.
+- Insight is why what you're going to try will end up successful. Insights are your unfair advantages. You need to have at least one and it must be related to growth. The insight is why investors will choose to invest in your company over others.
+- There are a few types of insights:
+  - Founder (a PM at Google is not an advantage. Having a PhD with some patent in the area you want to start your business is. Most founders don't have this and it's okay.)
+  - Market (a market that grows by at least 20% / yr without having you to do anything i.e. you're currently in a trending market. This is the weakest advantage if it's your only one.)
+  - Product (is your product 10x better than your competitors. Your users need to be like "oh shit this is so much better than anything else". 2x or 3x is nice but it's not enough to convince investors.)
+  - Acquisition (customer acquisition paths that cost no money e.g. word of mouth. Paid acquisition is the worst way to grow your company because it's an advantage that quickly dwindles.)
+  - Monopoly (as your company grows, does it become harder for your competitiors to beat you? Good examples are businesses with network effect or marketplaces or anything with like a chicken vs egg problem.)
+- Most importantly, you need to be able to build and test your hypothesis. Nothing matters if you can't build your product.
