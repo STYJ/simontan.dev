@@ -31,3 +31,4 @@ A collection of articles that I enjoy reading and have / will re-read in the fut
 # Entrepreneurship
 - [How to get startup ideas](http://paulgraham.com/startupideas.html)
 - [Do things that don't scale](http://paulgraham.com/ds.html)
+- [How to build the future](https://www.ycombinator.com/future/sam)
