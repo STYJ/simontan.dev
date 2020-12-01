@@ -12,8 +12,6 @@ Here are some notes that I've taken down from the [future founder's track by YC]
 
 ## Why to not not start a startup by Paul Graham
 
-TLDR: What are some common reasons for not wanting to start a startup and why some of these reasons don't necessarily make the most sense.
-
 [source](http://www.paulgraham.com/notnot.html)
 
 1. Too Young. Age doesn't necessarily correlate to maturity. A simple test would be to see how one reacts to a challenge. Do they immediately dismiss it as a stupid idea or do they probe deeper to understand why.
@@ -36,8 +34,6 @@ TLDR: What are some common reasons for not wanting to start a startup and why so
 ---
 
 ## Before the startup by Paul Graham
-
-TLDR: A list of things to remember if you want to prepare yourself to start a startup.
 
 [Source](http://www.paulgraham.com/before.html)
 
@@ -208,12 +204,12 @@ Even though this isn't part of the future founder's track, I just thought I'd ad
 
 - YC defines startup as a company that is designed to grow very quickly. There's nothing against small businesses, just that investors are generally more interested in those that grow really fast.
 - There are good investors and there are bad investors. Bad investors will poke holes in your business, like trying to show how smart they are. Good investors will listen to you, try to envision what you are telling them and pitch your idea back to you as to what they think your business needs to do to become a unicorn.
-- A startup needs to have 3 things:
+- **A startup needs to have 3 things**:
   - a problem
   - a solution
   - an insight
 - A problem is like the initial setting. What are the conditions as to why this business will grow quickly.
-- A good problem is one with the following:
+- **A good problem is one with the following:**
   - popular (i.e. many people have them)
   - growing (e.g. growing industry)
   - urgent (need to be solved very quickly)
@@ -221,9 +217,9 @@ Even though this isn't part of the future founder's track, I just thought I'd ad
   - mandatory (e.g. new regulation)
   - frequent
 - You don't necessarily need to have every factor but of course the more the better.
-- Your solution is also the experiment that you want to carry out to test your hypothesis (problem) within the aforementioned conditions for it to grow quickly.
+- **Your solution is also the experiment that you want to carry out to test your hypothesis (problem) within the aforementioned conditions for it to grow quickly.**
 - Also don't start with a solution otherwise you're basically a solution in search of a problem.
-- Insight is why what you're going to try will end up successful. Insights are your unfair advantages. You need to have at least one and it must be related to growth. The insight is why investors will choose to invest in your company over others.
+- Insight is why what you're going to try will end up successful. **Insights are your unfair advantages. You need to have at least one and it must be related to growth. The insight is why investors will choose to invest in your company over others.**
 - There are a few types of insights:
   - Founder (a PM at Google is not an advantage. Having a PhD with some patent in the area you want to start your business is. Most founders don't have this and it's okay.)
   - Market (a market that grows by at least 20% / yr without having you to do anything i.e. you're currently in a trending market. This is the weakest advantage if it's your only one.)
@@ -231,3 +227,113 @@ Even though this isn't part of the future founder's track, I just thought I'd ad
   - Acquisition (customer acquisition paths that cost no money e.g. word of mouth. Paid acquisition is the worst way to grow your company because it's an advantage that quickly dwindles.)
   - Monopoly (as your company grows, does it become harder for your competitiors to beat you? Good examples are businesses with network effect or marketplaces or anything with like a chicken vs egg problem.)
 - Most importantly, you need to be able to build and test your hypothesis. Nothing matters if you can't build your product.
+
+---
+
+## How to find the right co-founder by Harj Taggar
+
+[source](https://www.ycombinator.com/library/8h-how-to-find-the-right-co-founder)
+
+- **Why have a cofounder?**
+  - Improved productivity e.g. co-founders with complementary skills, bouncing ideas back and forth.
+  - Moral support i.e. someone to lean on when it gets tough, someone to pull you back to earth when you're delusional. Employee is different from co-founder.
+  - Many successful companies have multiple co-founders
+- You should generally wait to start a company until you have a co-founder.
+- If you start alone, you need to have very high conviction of your idea e.g. you know the problem very well and your solution definitely solves it. They can also build an MVP of the solution without a co-founder.
+- **What to lookout for in a co-founder?**
+  - How they can handle stress i.e. people that you've worked with under stressful conditions / close friends
+  - Their goals and values must be aligned with you i.e. what their motivations are. This is to avoid conflicting goals in the future. Note that goals change over time as well.
+  - Complimentary skillsets aren't make or break, better to find someone you trust and enjoy working with.
+- Where to find co-founders?
+  - Friends and colleagues
+  - The best time to find co-founders is when you're not actively trying to look for co-founders e.g. work on projects with many people. This lets you get a sense of what kind of people you enjoy working with, what kind of skills do you actually have etc.
+  - Find people with similar interests to you at events / hackathons.
+- **Asking is a very underrated skill.** If the person you want to co-found a company with rejects you, ask him / her for who they want to start a company with and get an introduction!
+- How do you test out and know for sure that you both want to start a company together before making the final commitment?
+  - Sometimes you just have to do it.
+  - Allocate chunks of time to work together e.g. deadline for product, pitching together. At the end, have an honest conversation to see if both of you enjoyed working together.
+- **Prior to starting anything, make sure you are in agreement with these 2 things:**
+  - Equity split. Default is 50:50. Not many reasons to deviate from 50:50. Both of you MUST be happy with the equity split and are motivated to work for a long period of time. It's okay to deviate if maybe you're working on it earlier than he is but remember not to optimise for the short term. A great co-founder is worth more than the progress you made by yourself in the last 6 months.
+  - Who's the CEO. Initially, it doesn't matter since everyone needs to do a lot of grunt work. Just because you're the CEO doesn't mean you can abscone from some of the hard work. That said, the CEO is effectively the face of the company, the final decision maker. This is very important especially when it comes to investors so if your co-founder is the person who will lead the conversation w/ investors then it is better for him to be the CEO.
+  - Once it's done, formalise it by setting a legal agreement with vesting.
+
+---
+## How to work together by Kevin Hale
+
+[source](https://www.ycombinator.com/library/6n-how-to-work-together)
+
+- Founders need to optimise for a relationship that will last 10 years.
+- **Co-founders will also fight:**
+  - Fundraising / Runway
+  - Customers / Employees
+  - Performance
+  - Roadmap
+  - Competition
+  - Partnerships
+- **There are 4 major things to avoid:**
+  - Criticism (bring other issues into play instead of addressing the issue at hand)
+  - Contempt (intention to insult, making things personal)
+  - Defensiveness (someone not owning responsibility of the problem)
+  - Stonewalling (won't engage / talk)
+- **4 things that can help to protect us:**
+  - Divide and conquer (to protect against defensiveness)
+    - Who is responsible for what?
+    - It's easy to delegate but people don't talk about what happens when things don't go the way you want to i.e. what is also considered success / failure or when the other co-founders should intervene.
+  - Know yourself
+    - [What is your attachment style?](https://www.youtube.com/watch?v=2s9ACDMcpjA)
+    - What is your co-founder's attachment style?
+    - Both parties need to know when attachment styles conflict and what each of them need to do.
+  - Document a process (to protect against criticism)
+    - Do this when you are sober
+    - Figure out roles, goals and a process for handling disagreements before emotions enter the fray.
+    - **It's hard to think straight when you are emotional.**
+    - [Decision Disagreement Framework](https://docs.google.com/spreadsheets/d/1iuc66bcM3zEgwQSOchViuOpDX9NzvNWQtud6jIZXYmA/htmlview)
+    - You just need to agree ahead of time.
+  - Use non violent communication (to protect against contempt)
+    - Be honest without putting down others. 
+    - When <observation>, I feel <emotion> because I'm needing some <universal needs>. Would you be able to <request>?
+    - Observation (fact) vs evaluation (opinion) e.g. you are 10 minutes late to this meeting vs you're always late.
+    - Emotions vs thoughts. If you replace "feel" with "think", it doesn't work e.g. "I feel frustrated" is an emotion vs "I feel / think that you aren't taking this seriously" is a thought.
+    - Be careful of anger (pissed) or evaluative emotions (e.g. blamed, judged)
+    - [List of evaluative words that are confused with feelings](https://www.slideshare.net/nonviolent/evaluative-words-list-nonviolent-communication)
+    - Universal need (everyone should have) vs personal need e.g. I need support vs I need support from you.
+    - Request (invitation that can be rejected) vs demand
+    - [How to deliver constructive feedback in difficult situations](https://medium.com/s/please-advise/the-essential-guide-to-difficult-conversations-41f736e63ccf)
+- **Pay off your emotional debt EVERYDAY. Don't let small problems fester into big problems.**
+- **Practice having level 3 conversations now** (lv 1 - data exchange / passing things around, lv 2 - have some emotions and/or personal, lv 3 - relational, happening right now between 2 ppl that is super important)
+- Good practice for lv 3 conversations:
+  - Goals
+    - What are our short term goals for the company?
+    - Are we using the right metrics?
+    - Are we hitting our goals?
+  - Responsibility
+    - Is it clear who is responsible for what?
+  - Performance
+    - Do we agree the current division makes the most sense?
+    - Is our workload distributed in an optimal manner today?
+    - Do we feel a high levelof dedication and motivation?
+    - What measures are there in place for providing feedback to one another
+- It's very mentally and physically draining to run a startup so if someone fails to keep their side of the bargain e.g. not following the process that was setup when there is a disagreement, just let them go.
+- How do you handle very talented co-founders that are assholes? Hard question. Co-founders need to decide on how they want to run the company. If majority agree it is okay for 1 co-founder to act that way then sure but generally YC prefers that this approach of running a company is better than one that is controlled by dictatorship and fear.
+- **Someone who's a good friend might not be a good co-founder.**
+- **You have to trust them and believe in them 100% if you are going to hand them half the company.**
+- How do you trial out a relationship? Do a project together. Contracts work too. Can we consistently have good conversations and make each other better without placating (appease) to one another?
+- Take turns e.g. do their idea first then do yours.
+- How do you strengthen relationships in remote companies? **You have to overshare deliberately. You need to be very good at communication and trusting others.** What are things you take for granted when working together? These are the things you need to explicitly do in a fully remote team.
+- How do you deescalate an existing conflict? Everyone needs to agree that this is not working / affecting productivity. **Sometimes people just need time to cool off.**
+
+--- 
+
+## How to Get and Test Startup Ideas by Michael Seibel
+
+Another one that's not part of the future founder's track but I'm adding it here as well
+
+[source](https://youtu.be/vDXkpJw16os)
+
+- You need to have some kind of relationship with the problem e.g. it is a problem you, your friends, your family, your community faces.
+- Good to bounce problems (not ideas) off friends and potential solutions.
+- Are there some unique insights to the problem that you know and others don't?
+- Look at existing solutions that attempted to solve this problem to have a rough idea of what they tried to do and whether or not they are successful.
+- When building the MVP, get it out ASAP and don't fall in love with it. You're better off falling in love with your users and problems instead.
+- Should also be careful with who you talk to to test your MVP. 
+- Most important part of the MVP is that it must actually solve a problem.
