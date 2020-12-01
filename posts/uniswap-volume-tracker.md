@@ -9,6 +9,7 @@ layout: layouts/post.njk
 
 <img src="/img/uniswap-volume-tracker.png" alt="A screenshot of the uniswap volume tracker in action"/>
 
+_Simon: This project used to go by the name tracing.money but has been renamed to uniswap volume tracker._
 ## What is this project about?
 
 I wrote a script to monitor the buy and sell volumes on uniswap. It sums the buy / sell volume traded across different intervals and compares between them. This is analogous to moving averages and comparing the MAs.
