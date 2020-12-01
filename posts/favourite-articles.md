@@ -9,7 +9,7 @@ layout: layouts/post.njk
 A collection of articles that I enjoy reading and have / will re-read in the future.
 
 # Personal
-- [A journey of self discovery](https://simontan.dev/posts/a-journey-of-self-discovery/)
+- [A journey of self discovery](../a-journey-of-self-discovery/)
 
 # Life advice
 - [Steve Jobs' 2005 Stanford Commencement Address](https://news.stanford.edu/2005/06/14/jobs-061505/)
