@@ -337,3 +337,11 @@ Another one that's not part of the future founder's track but I'm adding it here
 - When building the MVP, get it out ASAP and don't fall in love with it. You're better off falling in love with your users and problems instead.
 - Should also be careful with who you talk to to test your MVP. 
 - Most important part of the MVP is that it must actually solve a problem.
+
+--- 
+
+## How to Split Equity Among Co-Founders by Michael Seibel
+
+[source](https://www.ycombinator.com/library/5x-how-to-split-equity-among-co-founders)
+
+- There are some really good notes in the link above so take a look at that!
