@@ -22,6 +22,8 @@ Some motivational quotes that I am fortunate enough to chance upon (some of whic
 
 > Action skews the probabilities of success which others mistake as luck - MJ DeMarco
 
+> If you need inspiring words, don't do it. - Elon Musk
+
 > There isn't anything in the world that can't be made better. - Jack Valenti
 
 > Don't equate the quality of a decision with the quality of its outcome i.e. You have control over the quality of your decisions. You don't have full control over the outcomes of your decisions. - Annie Duke
