@@ -45,6 +45,7 @@ This is a live document I've created to help me with the process of discovering 
 - Machine learning
 - Game development
 - Web Assembly
+
 # What I'm bad at
 - Trading lol
 
