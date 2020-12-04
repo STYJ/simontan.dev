@@ -36,18 +36,20 @@ This is a live document I've created to help me with the process of discovering 
 - Time management
 
 # Areas where I want to improve on
-- Smart contract development
-- Deconstructing technical concepts for non technical folks (writing / video)
+- How to create a sustainable business
+- Deconstructing technical concepts for non technical folks (make learning fun again!)
 - Having the perseverance and patience to stick through something once I've committed
 
 # Interests that I want to explore
 - Zero knowledge proofs
+- Machine learning
 - Game development
-
+- Web Assembly
 # What I'm bad at
 - Trading lol
 
 # Reminder to self
 - Find what works for you.
-- Do not compare yourself to others.
+- Avoid comparing yourself to others (and your past self).
 - Good things will come to those who wait.
+- Do something because because you're genuinely interested in it.
