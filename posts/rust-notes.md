@@ -113,3 +113,14 @@ https://doc.rust-lang.org/stable/rust-by-example/trait.html
 - What is `box` and `dyn`?
 
 https://doc.rust-lang.org/stable/rust-by-example/trait/dyn.html
+
+- What is `extern crate xxx`?
+
+In the 2015 edition of rust, if you wanted to use an external crate, what you'd do is to do `extern crate dotenv` in main.rs and then in the environtment.rs mod, you'd bring it into scope using `use dotenv` however in the 2018 version, that is not longer required. This doesn't apply to crates that ship w/ rustc e.g. alloc, test. 
+
+https://doc.rust-lang.org/reference/items/extern-crates.html#extern-prelude
+
+
+
+
+
