@@ -10,6 +10,8 @@ Some motivational quotes that I am fortunate enough to chance upon (some of whic
 
 > There have to be reasons that you get up in the morning and you want to live. Why do you want to live? What's the point? What inspires you? What do you love about the future? If the future does not include being out there among the stars and being a multi-planet species, I find that incredibly depressing. - Elon Musk
 
+> Our existence cannot just be about solving one miserable problem after another. There need to be reasons to live. - Elon Musk
+
 > Don't join a company simply to learn because learning can be done anywhere. You want to join a company to pick up skills that will help you to achieve your long term goal. - Aaron (IRL friend)
 
 > Sometimes it's less about doing what you like and more of doing what you're good at. The benefits of doing something you're good at is that you can get paid for it and that it is easier for you to make an impact on someone's life. This is a positive loop that will keep growing. - Tenghui (IRL friend)
