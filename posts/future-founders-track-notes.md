@@ -476,3 +476,51 @@ Another one that's not part of the future founder's track but I'm adding it here
 - Don't get ahead of yourself. Do what is most guaranteed to achieve your weekly goal.
 - You have to be honest about yourself regarding the current state of the company, your weekly goals and how much time it takes to do something.
 - YC advocates not buying ads as a way to get your customers (esp early on) because it is a sign of bad founder market fit because you don't know where to find those first few users.
+
+---
+
+## YC's Essential Startup Advice by Geoff Ralston, Michael Seibel
+
+[source](https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice)
+
+- There are some really good notes in the link above so take a look at that!
+
+---
+
+## Do things that don't scale by Paul Graham
+
+[source](http://paulgraham.com/ds.html)
+
+- Recruit users manually. You can't wait for customers to come to you, you have to go to them.
+- Be extremely aggressive when it comes to recruiting. Why setup a meeting to do X when you can do it now?
+- Start manually then once you verify that the market actually exists, you can switch to something less manual.
+- Your startup will be fragile initially. Don't judge your startup with established ones.
+- "How big can this company get if the founders did the right things?"
+- If you build something to solve your own problem, you just have to find your peers. If not, do an untargetted launch and look out for folks who seem more enthusiastic than others and go after that group of users.
+- Don't just acquire users, make them happy for as long as you can.
+- This is quite counter intuitive for many founders because they are mostly engineers (not CS trained), they worry it won't scale and they never experienced it themselves before.
+- Big companies don't do these because they can't but you can.
+- How much attention should you give your customers? Insanely great. Not just very great, it has to be considered pathological.
+- What "insanely great" means depends on where along the timeline your startup is at. For a big company, the product is necessarily the dominant one. For an early stage startup, you can give your users an insanely great experience with an early, incomplete, buggy product but with an insane amount of attentiveness.
+- Over-engaging with early users is not just a permissible technique for getting growth rolling. For most successful startups it's a necessary part of the feedback loop that makes the product good.
+- Perfectionism is often an excuse for procrastination, and in any case your initial model of users is always inaccurate, even if you're one of them.
+- Sometimes the right unscalable trick is to focus on a deliberately narrow market.
+- There exists a catch-22 if you want to do a hardware startup. You need money for growth but you need growth for money.
+- Sometimes you just need to manually assemble those first 100s or 1000s of hardware in order to gain traction. You can tweak the design faster when you're the factory, and you learn things you'd never have known otherwise.
+- Sometimes you should take over-engagement to the extreme, pick a single user and act like as if they are the only client. Tweak until you've met their needs perfectly.
+- Another consulting-like technique for recruiting initially lukewarm users is to use your software yourselves on their behalf. It teaches you how to feel like to be merchants who might be using your software.
+- "You are your software" - When you only have a small number of users, you can sometimes get away with doing by hand things that you plan to automate later. This lets you launch faster, and when you do finally automate yourself out of the loop, you'll know exactly what to build because you'll have muscle memory from doing it yourself. e.g. Stripe's founders manually signed up their merchants behind the scenes even though on the frontend, it seems like it was "instant".
+- Don't obsess over launches. Nobody remembers them.
+- what you are going to build + the unscalable things that you are going to do to get the company going (usually along the lines of recruit users manually and give them an overwhelmingly good experience)
+- The unscalable things you have to do to get started are not merely a necessary evil, but change the company permanently for the better.
+- If you have to be aggressive about user acquisition when you're small, you'll probably still be aggressive when you're big.
+- If you have to manufacture your own hardware, or use your software on users's behalf, you'll learn things you couldn't have learned otherwise. 
+- If you have to work hard to delight users when you only have a handful of them, you'll keep doing it when you have a lot.
+
+---
+
+## Startup = Growth by Paul Graham
+
+[source](http://www.paulgraham.com/growth.html)
+
+I did not read this yet because I do not have any customers to put my product in their hands yet.
