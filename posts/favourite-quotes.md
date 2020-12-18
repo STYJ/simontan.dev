@@ -20,7 +20,7 @@ Some motivational quotes that I am fortunate enough to chance upon (some of whic
 
 > If you don't want to sell your life to build someone else's dreams, do you have what it takes to build your own? - Simon (me!)
 
-> Sometimes there isn't a right choice so the only regret you can have is not making that decision for yourself - https://youtu.be/x18bXxW3yhY
+> Sometimes there isn't a right choice so the only regret you can have is not making that decision for yourself - [Pursuit of Wonder](https://youtu.be/x18bXxW3yhY)
 
 > Action skews the probabilities of success which others mistake as luck - MJ DeMarco
 
