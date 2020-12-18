@@ -35,10 +35,12 @@ This is a live document I've created to help me with the process of discovering 
 - Planning w/ uncertainty
 - Time management
 
-# Areas where I want to improve on
-- How to create a sustainable business
-- Deconstructing technical concepts for non technical folks (make learning fun again!)
-- Having the perseverance and patience to stick through something once I've committed
+# What I'm bad at
+- Trading lol
+
+# What I want to achieve by 2021
+- Started a sustainable and profitable business
+- Learn some Japanese
 
 # Interests that I want to explore
 - Zero knowledge proofs
@@ -46,11 +48,9 @@ This is a live document I've created to help me with the process of discovering 
 - Game development
 - Web Assembly
 
-# What I'm bad at
-- Trading lol
-
 # Reminder to self
 - Find what works for you.
 - Avoid comparing yourself to others (and your past self).
 - Good things will come to those who wait.
 - Do something because because you're genuinely interested in it.
+- It's okay to take as much time as you need to figure out what you want to do. Don't agree too quickly. Once you've made a decision, stick to it.
