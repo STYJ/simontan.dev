@@ -1,12 +1,12 @@
 ---
-title: Favourite Articles / Videos
+title: Favourite Articles & Videos
 date: 2020-10-19
 tags:
   - life
 layout: layouts/post.njk
 ---
 
-A collection of articles that I enjoy reading and have / will re-read in the future.
+A collection of articles & videos that I enjoy and have / will re-visit in the future.
 
 # Personal
 - [A journey of self discovery](../a-journey-of-self-discovery/)
@@ -14,6 +14,7 @@ A collection of articles that I enjoy reading and have / will re-read in the fut
 # Life advice
 - [Steve Jobs' 2005 Stanford Commencement Address](https://news.stanford.edu/2005/06/14/jobs-061505/)
 - [How to be successful](https://blog.samaltman.com/how-to-be-successful)
+- [The richest boy in the world](https://www.youtube.com/watch?v=3H9d7_fU3p4)
 
 # Communication
 - [How to write usefully](http://www.paulgraham.com/useful.html)
