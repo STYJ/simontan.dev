@@ -41,7 +41,7 @@ fn main() {
     println!("Debug: {:?}", complex);
 }
 ```
-```
+```text
 // Output
 Compare complex:
 Display: 3.3 + 7.2i
