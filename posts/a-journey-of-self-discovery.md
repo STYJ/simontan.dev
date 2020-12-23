@@ -31,6 +31,24 @@ This is a live document I've created to help me with the process of discovering 
 - A nice cup of coffee
 - Driving on an empty road
 
+# Things I'm good at
+- Planning w/ uncertainty
+- Time management
+
+# What I'm bad at
+- Trading lol
+
+# What I want to achieve by 2021
+- Started a sustainable and profitable business
+- Learn some Japanese
+
+# Interests that I want to explore
+- Machine learning
+- Game development
+- Web Assembly
+- Zero knowledge proofs
+- Cybersecurity
+
 # Reminder to self
 - Find what works for you.
 - Avoid comparing yourself to others (and your past self).
