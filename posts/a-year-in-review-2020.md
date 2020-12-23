@@ -6,7 +6,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Halo internet, this is the first time I am doing this (writing it out). I decided to do a year in review so that when I look back next year, I want to be able to tell how much I have grown as an individual. The second reason of writing it out is because I want to acknowledge and celebrate the small victories, to reflect on my losses and disappointments and to recognise areas where I want to grow. This is my way of remembering the past, living in the present and planning for the future.
+Halo internet, this is the first time I am doing this (writing it out). I decided to do a year in review so that when I look back next year, I want to be able to tell how much I have grown as an individual. The second reason of writing it out is because I want to acknowledge and celebrate the small victories, to reflect on my disappointments and to recognise areas where I want to grow. This is my way of remembering the past, living in the present and planning for the future.
 
 Instead of writing a long wall of text, I'm just going to list them down in bullet points (in no particular order and not exhaustive of course). I also have a separate section for lessons I learnt from DevIt.tools.
 
@@ -26,7 +26,7 @@ Instead of writing a long wall of text, I'm just going to list them down in bull
 - I learnt to create a custom email domain using improvemx!
 - I found myself a long term goal that really resonated with me!
 
-## Losses and Disappointments 😞
+## Disappointments 😞
 - I don't think I can handle the cold as well as I used to...
 - I am reaaaaaaally bad at trading lol.
 - I dropped way too many projects this year. It feels like I'm forcing myself to do something but I end up not being motivated enough to continue.
@@ -50,7 +50,7 @@ Instead of writing a long wall of text, I'm just going to list them down in bull
 - To embrace the 80:20 rule.
 - To learn and use first principles thinking.
 
-## Learnings from DevIt.Tools 📚
+## Learnings from DevIt 📚
 - Don't start something for the sake of starting something.
 - Don't jump onto the very first problem you encounter. You'll be spending a lot of time on it if it becomes successful so you must really want to solve this problem.
 - You need to have a relationship with the problem because when push comes to shove, monetary incentives can only get you so far.
