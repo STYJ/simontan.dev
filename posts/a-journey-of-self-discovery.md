@@ -43,11 +43,9 @@ This is a live document I've created to help me with the process of discovering 
 - Learn some Japanese
 
 # Interests that I want to explore
-- Machine learning
-- Game development
-- Web Assembly
-- Zero knowledge proofs
-- Cybersecurity
+- AI in games (machine learning, game dev)
+- Applications of ZKP (applied cryptography)
+- Fully decentralised insurance (blockchain)
 
 # Reminder to self
 - Find what works for you.
