@@ -16,6 +16,8 @@ Some motivational quotes that I am fortunate enough to chance upon (some of whic
 
 > Sometimes it's less about doing what you like and more of doing what you're good at. The benefits of doing something you're good at is that you can get paid for it and that it is easier for you to make an impact on someone's life. This is a positive loop that will keep growing. - Tenghui (IRL friend)
 
+> The universe is made of stories, not of atoms. - Muriel Rukeyser.
+
 > If it's not fun, why bother? - Reggie Fils-Aimé
 
 > If you don't want to sell your life to build someone else's dreams, do you have what it takes to build your own? - Simon (me!)
