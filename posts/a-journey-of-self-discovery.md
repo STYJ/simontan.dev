@@ -30,6 +30,7 @@ This is a live document I've created to help me with the process of discovering 
 - Rain
 - A nice cup of coffee
 - Driving on an empty road
+- Spending time with my family and friends
 
 # Things I'm good at
 - Planning w/ uncertainty
@@ -47,9 +48,15 @@ This is a live document I've created to help me with the process of discovering 
 - Applications of ZKP (applied cryptography)
 - Fully decentralised insurance (blockchain)
 
+# Facts that I know are true
+- I prefer talking to humans than machines but machines are really cool too.
+- I prefer to create a system where it can generate me 200k / yr with minimal effort than 1 mil a yr at the expense of my family and health.
+- I enjoy helping people.
+
 # Reminder to self
+- Don't think so much, just do but only do it because you're **genuinely** interested in it.
 - Find what works for you.
-- Avoid comparing yourself to others (and your past self).
-- Good things will come to those who wait.
-- Do something because because you're genuinely interested in it.
+- Avoid comparing yourself to others (and even your past self).
+- Good things will come to those who are patient.
+- Be useful, kind and generous to others.
 - It's okay to take as much time as you need to figure out what you want to do. Don't agree too quickly. Once you've made a decision, stick to it.
