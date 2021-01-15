@@ -18,6 +18,7 @@ A collection of articles & videos that I enjoy and have / will re-visit in the f
 - [Steve Jobs' 2005 Stanford Commencement Address](https://news.stanford.edu/2005/06/14/jobs-061505/)
 - [How to be successful](https://blog.samaltman.com/how-to-be-successful)
 - [The richest boy in the world](https://www.youtube.com/watch?v=3H9d7_fU3p4)
+- [Arm yourself with specific knowledge](https://nav.al/specific-knowledge)
 
 # Entrepreneurship
 - [How to get startup ideas](http://paulgraham.com/startupideas.html)
