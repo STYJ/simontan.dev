@@ -11,7 +11,7 @@ layout: layouts/post.njk
 
 ## What is this project about?
 
-I built an impermanent loss (IL) calculator to help others and myself to calculate the [impermanent loss](https://finematics.com/impermanent-loss-explained/) of supplying liquidity to constant product market makers like [Uniswap](https://uniswap.org/) and [Balancer](https://balancer.finance/).
+I built an impermanent loss (IL) calculator to help others and myself to calculate the [impermanent loss](https://finematics.com/impermanent-loss-explained/) from supplying liquidity to constant product market makers like [Uniswap](https://uniswap.org/) and [Balancer](https://balancer.finance/).
 
 ## Why did I do this?
 
