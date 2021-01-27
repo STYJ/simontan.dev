@@ -36,6 +36,8 @@ Some motivational quotes that I am fortunate enough to chance upon (some of whic
 
 > First do it, then do it right, then do it better - Andy Osmani
 
+> Passion is not a plan, it is a feeling and feelings change over time. - Terri Trespicio
+
 > When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us. - Alexander Graham Bell
 
 > People who call themselves realists are often just dreamers who got their hearts broken somewhere along the way - Ashley Stahl
