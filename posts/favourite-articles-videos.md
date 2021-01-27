@@ -19,6 +19,7 @@ A collection of articles & videos that I enjoy and have / will re-visit in the f
 - [How to be successful](https://blog.samaltman.com/how-to-be-successful)
 - [The richest boy in the world](https://www.youtube.com/watch?v=3H9d7_fU3p4)
 - [Arm yourself with specific knowledge](https://nav.al/specific-knowledge)
+- [Before you "quit your job and follow your passion" watch this.](https://www.youtube.com/watch?v=Tz1kVa8brLg)
 
 # Entrepreneurship
 - [How to get startup ideas](http://paulgraham.com/startupideas.html)
