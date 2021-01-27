@@ -48,11 +48,6 @@ This is a live document I've created to help me with the process of discovering 
 - Applications of ZKP (applied cryptography)
 - Fully decentralised insurance (blockchain)
 
-# Facts that I know are true
-- I prefer talking to humans than machines but machines are really cool too.
-- I prefer to create a system where it can generate me 200k / yr with minimal effort than 1 mil a yr at the expense of my family and health.
-- I enjoy helping people.
-
 # Reminder to self
 - Don't think so much, just do but only do it because you're **genuinely** interested in it.
 - Find what works for you.
