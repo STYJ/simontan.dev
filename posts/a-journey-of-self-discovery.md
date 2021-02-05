@@ -6,8 +6,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-This is a live document I've created to help me with the process of discovering and understanding one's true self. As a reminder to myself (and anyone who plans to do this), it is imperative not to deny oneself simply because society deems some of these traits at negative. Everyone is flawed, you need to first come to terms with who you are otherwise you will never truly be in sync with yourself.
-
+This is a live document that I created to help me with the process of discovering and understanding myself. As a reminder to myself (and anyone who plans to do this), it is imperative not to deny youself simply because society deems some of these traits at negative. Everyone is flawed, you need to first come to terms with who you are otherwise you will never truly accept who you are.
 # Priorities (sorted)
 - Family (relationships)
 - Fitness (health)
@@ -31,8 +30,9 @@ This is a live document I've created to help me with the process of discovering 
 - A nice cup of coffee
 - Driving on an empty road
 - Spending time with my family and friends
+- Silence
 
-# Things I'm good at
+# Things I think I'm good at
 - Planning w/ uncertainty
 - Time management
 
@@ -44,13 +44,12 @@ This is a live document I've created to help me with the process of discovering 
 - Learn some Japanese
 
 # Interests that I want to explore
-- AI in games (machine learning, game dev)
+- AI in games (machine learning, game dev) - [example](https://www.youtube.com/watch?v=saNNQUKjCXQ)
 - Applications of ZKP (applied cryptography)
 - Fully decentralised insurance (blockchain)
 
-# Reminder to self
-- Don't think so much, just do but only do it because you're **genuinely** interested in it.
-- Find what works for you.
+# Note to self
+- Do something only because you are genuinely interested in it.
 - Avoid comparing yourself to others (and even your past self).
 - Good things will come to those who are patient.
 - Be useful, kind and generous to others.

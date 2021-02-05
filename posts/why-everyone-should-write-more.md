@@ -6,8 +6,6 @@ tags:
   - life
 layout: layouts/post.njk
 ---
-# Why writing is the best thing you can do on the side?
-
 In the context of [how to be successful](https://blog.samaltman.com/how-to-be-successful) by Sam Altman
 
 1. Writing helps you to compound yourself
