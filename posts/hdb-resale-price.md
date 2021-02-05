@@ -8,9 +8,6 @@ layout: layouts/post.njk
 ---
 
 <img src="/img/hdb-resale-price.png" alt="A screenshot of the HDB Resale Price dashboard"/>
-
-_Simon: I have deactivated UpTimeRobot for this app so if you want to try out the app, please be aware that it will take a little longer than normal to load since the dynos are starting up. If it still doesn't work, refresh the browser and it should work._
-
 ## What is this project about?
 
 The HDB Resale Price dashboard is a simple dashboard to show users some statistics regarding the resale price of HDBs in Singapore over the last 5 years (Jan 2015 - Nov 2020).
