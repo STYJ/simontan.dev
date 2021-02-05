@@ -8,9 +8,9 @@ layout: layouts/post.njk
 
 This is a live document that I created to help me with the process of discovering and understanding myself. As a reminder to myself (and anyone who plans to do this), it is imperative not to deny youself simply because society deems some of these traits at negative. Everyone is flawed, you need to first come to terms with who you are otherwise you will never truly accept who you are.
 # Priorities (sorted)
+- Freedom (choice)
 - Family (relationships)
 - Fitness (health)
-- Freedom (choice)
 - Everything else
 
 # Tenets I try to live by
