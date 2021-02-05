@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-I just spent the last few hours of my first day of 2021 watching an anime but I don't regret it at all. [Dr Stone](https://myanimelist.net/anime/38691/Dr_Stone) is so good that I need to write an article about it lol. These are some lessons that I learnt:
+I just spent the last few hours of my first day of 2021 watching an anime but I don't regret it at all. [Dr Stone](https://myanimelist.net/anime/38691/Dr_Stone) is so good that I need to write an article about it lol. These are some lessons that I took away:
 
 - Science is as beautiful as art.
 - It really is quite crazy how we went from the stone age to the modern world that we live in.
