@@ -8,6 +8,7 @@ layout: layouts/post.njk
 ---
 
 <img src="/img/hdb-resale-price.png" alt="A screenshot of the HDB Resale Price dashboard"/>
+
 ## What is this project about?
 
 The HDB Resale Price dashboard is a simple dashboard to show users some statistics regarding the resale price of HDBs in Singapore over the last 5 years (Jan 2015 - Nov 2020).
