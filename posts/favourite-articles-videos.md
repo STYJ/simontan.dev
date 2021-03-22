@@ -20,12 +20,14 @@ A collection of articles & videos that I enjoy and have / will re-visit in the f
 - [The richest boy in the world](https://www.youtube.com/watch?v=3H9d7_fU3p4)
 - [Arm yourself with specific knowledge](https://nav.al/specific-knowledge)
 - [Before you "quit your job and follow your passion" watch this.](https://www.youtube.com/watch?v=Tz1kVa8brLg)
+- [Do not end the week with nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
 
 # Entrepreneurship
 - [How to get startup ideas](http://paulgraham.com/startupideas.html)
 - [How to evaluate startup ideas](https://www.ycombinator.com/library/6e-how-to-evaluate-startup-ideas)
 - [Do things that don't scale](http://paulgraham.com/ds.html)
 - [How to build the future](https://www.ycombinator.com/future/sam)
+
 
 # Communication
 - [How to write usefully](http://www.paulgraham.com/useful.html)
