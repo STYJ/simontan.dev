@@ -14,7 +14,7 @@ This is a live document that I created to help me with the process of discoverin
 - Everything else
 
 # Tenets I try to live by
-- Time is your most important asset. Choose wisely what you spend your time on.
+- Time is your most important asset. Choose wisely what you spend your time on. Patience is also a virtue.
 - It is okay to be afraid of failure and rejection. You need to find the courage within to keep pressing forward.
 - The only regret that you can have is not making that decision for yourself. Regardless of what you choose, there'll be things you like and dislike. 
 - Honesty triumphs everything. Don't let others doubt your true intentions.
@@ -38,6 +38,7 @@ This is a live document that I created to help me with the process of discoverin
 
 # What I'm bad at
 - Trading lol
+- Programming w/ best practices
 
 # What I want to achieve by 2021
 - Started a sustainable and profitable business
@@ -50,7 +51,7 @@ This is a live document that I created to help me with the process of discoverin
 
 # Note to self
 - Do something only because you are genuinely interested in it.
-- Avoid comparing yourself to others (and even your past self).
+- Avoid comparing yourself to others. As long as you keep moving forward, you are golden.
 - Good things will come to those who are patient.
 - Be useful, kind and generous to others.
 - It's okay to take as much time as you need to figure out what you want to do. Don't agree too quickly. Once you've made a decision, stick to it.
