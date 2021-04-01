@@ -12,7 +12,7 @@ Some motivational quotes that I am fortunate enough to chance upon (some of whic
 
 > Our existence cannot just be about solving one miserable problem after another. There need to be reasons to live. - Elon Musk
 
-> Don't join a company simply to learn because learning can be done anywhere. You want to join a company to pick up skills that will help you to achieve your long term goal. - Aaron (IRL friend)
+> Don't join a company for the sole reason of learning. Learning can be had anywhere. You want to join a company to pick up skills that will help you to achieve your long term goal. - Aaron (IRL friend)
 
 > Sometimes it's less about doing what you like and more of doing what you're good at. The benefits of doing something you're good at is that you can get paid for it and that it is easier for you to make an impact on someone's life. This is a positive loop that will keep growing. - Tenghui (IRL friend)
 
@@ -47,3 +47,5 @@ Some motivational quotes that I am fortunate enough to chance upon (some of whic
 > Life is never black and white. In fact, it's not even mostly grey. Life is an ever-changing colour similar to that of the iridescent hue of a rainbow. - Simon (me!)
 
 > Per aspera ad astra (Through hardships to the stars) - Not sure... 🤔
+
+> You'll never like everything about your job and that's okay. In fact, you may not even like what you're good at but you should try to leverage on it to allow you to do what you like. For example, I am good at AML and nobody likes to do AML stuff but I'm leveraging on it to help companies design and build their entire AML infrastructure. This "connecting the dots" is what I enjoy doing. - Aaron (IRL friend)
