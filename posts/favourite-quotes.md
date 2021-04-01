@@ -49,3 +49,5 @@ Some motivational quotes that I am fortunate enough to chance upon (some of whic
 > Per aspera ad astra (Through hardships to the stars) - Not sure... 🤔
 
 > You'll never like everything about your job and that's okay. In fact, you may not even like what you're good at but you should try to leverage on it to allow you to do what you like. For example, I am good at AML and nobody likes to do AML stuff but I'm leveraging on it to help companies design and build their entire AML infrastructure. This "connecting the dots" is what I enjoy doing. - Aaron (IRL friend)
+
+> It's not that "You don't know what you want", it's because "you want a lot of things and don't like choosing". - [Sah Kilic](https://medium.com/swlh/if-you-dont-know-what-you-want-this-is-for-you-6f7491ca2fb4)
