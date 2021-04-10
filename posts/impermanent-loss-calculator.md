@@ -9,6 +9,7 @@ layout: layouts/post.njk
 
 <img src="/img/impermanent-loss-calculator.png" alt="A screenshot of the user interface of my impermanent loss calculator app" style="width: 50%;"/>
 
+Try out the calculator [here](https://impermanent-loss-calculator.netlify.app/)!
 ## What is this project about?
 
 I built an impermanent loss (IL) calculator to help others and myself to calculate the [impermanent loss](https://finematics.com/impermanent-loss-explained/) from supplying liquidity to constant product market makers like [Uniswap](https://uniswap.org/) and [Balancer](https://balancer.finance/).
