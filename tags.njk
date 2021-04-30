@@ -19,7 +19,7 @@ permalink: /tags/{{ tag }}/
 
 {# This page is http://localhost:8080/tags/<tag name> #}
 
-{% set postslist = collections[ tag ] %}
+{% set postslist = collections[ tag ] | published %}
 {% include "postslist.njk" %}
 
 <p>See <a href="{{ '/tags/' | url }}">all tags</a>.</p>
