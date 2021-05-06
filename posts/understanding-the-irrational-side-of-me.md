@@ -4,6 +4,7 @@ date: 2020-10-06
 tags:
   - self
 layout: layouts/post.njk
+draft: true
 ---
 
 I started reading a book called **The Laws of Human Nature** by Robert Greene to learn more about human psychology, with hopes that one day, I will be able to reach a point where I truly understand myself. One of the many lessons that Robert emphasizes is that _you think you are rational, but you are not_.

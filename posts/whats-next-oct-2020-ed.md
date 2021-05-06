@@ -4,6 +4,7 @@ date: 2020-10-11
 tags:
   - self
 layout: layouts/post.njk
+draft: true
 ---
 
 Halo internet, time for a quick update on life!

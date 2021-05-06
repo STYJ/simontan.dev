@@ -5,6 +5,7 @@ tags:
   - data science
   - learn in public
 layout: layouts/post.njk
+draft: true
 ---
 
 My biggest motivation for wanting to learn data science is simply because I had this on my to-learn list for quite a while now. If I attemped it and concluded that I do not like it then at least now I know there is one less item on my to-learn list. That is how I am trying to beat my quarter life crisis!

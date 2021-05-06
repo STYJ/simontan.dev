@@ -4,6 +4,7 @@ date: 2020-06-28
 tags:
   - learn in public
 layout: layouts/post.njk
+draft: true
 ---
 
 I chanced upon the idea of learning in public through a tweet from [@swyx](https://twitter.com/swyx). In this tweet, he shared a recent post that he wrote about the benefits of learning in public.

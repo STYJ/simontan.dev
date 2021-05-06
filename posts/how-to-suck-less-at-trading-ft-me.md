@@ -5,6 +5,7 @@ tags:
   - self
   - trading
 layout: layouts/post.njk
+draft: true
 ---
 
 _First and foremost, <strong>none of these are financial advice</strong>. I will not be responsible for any monetary losses should you choose to follow these tips._

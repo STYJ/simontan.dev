@@ -4,6 +4,7 @@ date: 2020-07-19
 tags:
   - self
 layout: layouts/post.njk
+draft: true
 ---
 Ah man, I did it again... It is the time of the year (and I have this multiple times a year 😢) where I start having doubts about how I want to progress in life. I wrote an article earlier about why I chose to learn data science but recently, I saw a friend share a few tweets about game development and this urge that I have been suppressing for the longest time keeps resurfacing, coming back stronger than ever - the emotion of passion.
 
