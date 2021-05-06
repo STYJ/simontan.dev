@@ -35,23 +35,22 @@ This is a live document that I created to help me with the process of discoverin
 # Things I think I'm good at
 - Planning w/ uncertainty
 - Time management
+- Asking why
 
 # What I'm bad at
 - Trading lol
-- Programming w/ best practices
+- Programming 😅 (I don't ever think I'll be good at this haha)
 
 # What I want to achieve by 2021
-- Started a sustainable and profitable business
+- To start a business
 - Learn some Japanese
 
 # Interests that I want to explore
-- AI in games (machine learning, game dev) - [example](https://www.youtube.com/watch?v=saNNQUKjCXQ)
-- Applications of ZKP (applied cryptography)
-- Fully decentralised insurance (blockchain)
+- AI/ML in games (machine learning, game dev) - [example](https://www.youtube.com/watch?v=saNNQUKjCXQ)
+- Game dev
 
 # Note to self
-- Do something only because you are genuinely interested in it.
+- If you're not excited about what you're doing, why are you doing it?
 - Avoid comparing yourself to others. As long as you keep moving forward, you are golden.
 - Good things will come to those who are patient.
 - Be useful, kind and generous to others.
-- It's okay to take as much time as you need to figure out what you want to do. Don't agree too quickly. Once you've made a decision, stick to it.
