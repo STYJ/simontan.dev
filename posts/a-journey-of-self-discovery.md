@@ -14,12 +14,13 @@ This is a live document that I created to help me with the process of discoverin
 - Everything else
 
 # Tenets I try to live by
-- Time is your most important asset. Choose wisely what you spend your time on. Patience is also a virtue.
+- Time is your most important asset. Choose wisely what you spend your time on. Patience is a virtue.
 - It is okay to be afraid of failure and rejection. You need to find the courage within to keep pressing forward.
 - The only regret that you can have is not making that decision for yourself. Regardless of what you choose, there'll be things you like and dislike. 
 - Honesty triumphs everything. Don't let others doubt your true intentions.
 - The biggest risk is not taking enough risks. Sometimes all you need to do is to take that first step.
 - Life is not a zero sum game. Do well by doing good.
+- Risk management is extremely important. Don't leave things to luck.
 - Luck and privilege exists. Don't fret over things you have no control over.
 - Death is always at your doorstep. Remember the past, live in the present, plan for the future.
 
