@@ -25,6 +25,8 @@ I will be selling everything on the next few pumps. I'm hoping for at least an a
 
 Moving forward, I will not be investing anymore in this bull run. I think it will be ending soon and don't want to be caught pants down when that happens. I will still be lending my funds out to make some passive income because the returns are actually quite decent!
 
-That said however, I will be preparing myself for the next bull run. I want to learn to be a better at managing my risks and automating more of my trades. Using a DEX is not an excuse not to write a bot that can automatically stop loss for you. Not having a server is not an excuse either. What's the cost of a 10k server if cutting losses can save you 50k? You have no excuses to be repeating the same mistake a third time.
+That said however, I will be preparing myself for the next bull run. **I want to learn to be a better at managing my risks and automating more of my trades**. Using a DEX is not an excuse not to write a bot that can automatically stop loss for you. Not having a server is not an excuse either. What's the cost of a 10k server if cutting losses can save you 50k? **You have no excuses to be repeating the same mistake a third time.**
 
-Thank you life for giving me this opportunity to learn so much about myself. Simon, I wish you all the best for your next cycle.
+Just one last quick note to self - **Understand what you're actually doing.** For example, if you're looking at the price of a token in terms of ETH and you buy said token with ETH, it means you are long token, short ETH aka you are betting that the token will appreciate faster than that of ETH. If that's not what your intentions are then you're better off looking at the token/USD and ETH/USD price instead. You only have so much luck so don't squander it.
+
+Anyway, thank you life for giving me this opportunity to learn so much about myself. Simon, I wish you all the best for your next cycle.
