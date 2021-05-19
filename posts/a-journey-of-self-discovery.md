@@ -21,12 +21,12 @@ This is a live document that I created to help me with the process of discoverin
 - Patience - Patience is a virtue. Good things will come to those who wait.
 - Fear of rejection & failure - It is okay to be afraid but you need to find the courage to keep pressing forward.
 - Honesty - Honesty triumphs everything. Life is hard enough, don't give others a reason to doubt your intentions.
-- Risk - The biggest risk is not taking enough risks. Sometimes all you need to do is take that first step.
-- Risk management - When taking risks, you need to manage your exposure. There are surprisingly a lot of things you can control so don't make excuses.
-- Life - Life is not a zero sum game. Do well by doing good.
+- Risk - The biggest risk is not taking enough risks (calculated or not). Sometimes all you need to do is take that first step.
+- Risk management - When taking risks, you need to manage your exposure. There are surprisingly a lot of things you can control so stop making excuses.
+- Life - Life is not a zero sum game. You can do well by doing good.
 - Luck and privilege - There are a lot of things you cannot control in life, luck and privilege are two of them. Don't fret over things you have no control.
 - Death - Death is always at your doorstep. Remember the past, live in the present and plan for the future.
-- Regret - The only regret you can have is not making that decision for yourself. Regardless of your choice, there will be things you like and dislike.
+- Regret - The only regret you can have is not making that decision for yourself. Regardless of your choice, there will be things you like and dislike. There is no reason to cry over spilled milk because you can't change the past.
 
 # Little things I enjoy in life
 
@@ -52,15 +52,16 @@ This is a live document that I created to help me with the process of discoverin
 # What I want to achieve by 2021
 
 - To start a business
-- Learn some Japanese
 
 # Interests that I want to explore
 
-- Machine learning
 - Game dev - [example](https://www.youtube.com/watch?v=saNNQUKjCXQ)
+- Machine learning (KIV-ed for now)
+- Japanese (KIV-ed for now)
 
 # Note to self
 
+- Take many small achievable steps instead of trying to do a few large risky steps. The former depends on you, the latter on luck.
 - If you're not excited about what you're doing, why are you doing it?
 - Avoid comparing yourself to others. As long as you keep moving forward, you are golden.
 - Be useful, kind and generous to others.

@@ -12,13 +12,13 @@ Some motivational quotes that I am fortunate enough to chance upon (some of whic
 
 > Our existence cannot just be about solving one miserable problem after another. There need to be reasons to live. - Elon Musk
 
-> Sometimes it's less about doing what you like and more of doing what you're good at. The benefits of doing something you're good at is that you can get paid for it and that it is easier for you to make an impact on someone's life. This is a positive loop that will keep growing. - Tenghui (IRL friend)
+> Sometimes it's less about doing what you like and more of doing what you're good at. The benefits of doing something you're good at is that you can get paid for it and that it is easier for you to make an impact on someone's life. This positive loop will keep growing and might one day be something you like. - Tenghui (IRL friend)
 
 > The universe is made of stories, not of atoms. - Muriel Rukeyser.
 
 > If it's not fun, why bother? - Reggie Fils-Aimé
 
-> If you don't want to sell your life to build someone else's dreams, do you have what it takes to build your own? - Simon (me!)
+> If you don't believe in yourself, why would anyone else trust their money with you to do it? - Simon (me!)
 
 > Sometimes there isn't a right choice so the only regret you can have is not making that decision for yourself - [Pursuit of Wonder](https://youtu.be/x18bXxW3yhY)
 
@@ -51,3 +51,5 @@ Some motivational quotes that I am fortunate enough to chance upon (some of whic
 > It's not that "You don't know what you want", it's because "you want a lot of things and don't like choosing". - [Sah Kilic](https://medium.com/swlh/if-you-dont-know-what-you-want-this-is-for-you-6f7491ca2fb4)
 
 > The best time to do something was yesterday. The next best time is now. - Not sure... 🤔
+
+> Take many small achievable steps instead of a few large risky steps. The former depends on you, the latter on luck. - Simon (me!)
