@@ -5,7 +5,6 @@ tags:
   - projects
   - bots
 layout: layouts/post.njk
-draft: true
 ---
 
 <img src="/img/exchange-bot.png" alt="A screenshot of the user interface of my exchange bot" style="width: 50%;"/>
