@@ -2,7 +2,7 @@
 title: Favourite Quotes
 date: 2020-10-30
 tags:
-  - life
+  - advice
 layout: layouts/post.njk
 ---
 
@@ -35,6 +35,8 @@ Some motivational quotes that I am fortunate enough to chance upon (some of whic
 > First do it, then do it right, then do it better - Andy Osmani
 
 > Passion is not a plan, it is a feeling and feelings change over time. - Terri Trespicio
+
+> Like how it is premature to worry about the future, it is helpless to think about the past because there's nothing you can do about it. You just have to accept that what happened happened and how you can prevent something like this from happening again. - Simon (me!)
 
 > When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us. - Alexander Graham Bell
 

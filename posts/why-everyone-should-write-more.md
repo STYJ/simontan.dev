@@ -2,8 +2,7 @@
 title: Why everyone should write more
 date: 2021-01-15
 tags:
-  - writing
-  - life
+  - advice
 layout: layouts/post.njk
 ---
 In the context of [how to be successful](https://blog.samaltman.com/how-to-be-successful) by Sam Altman

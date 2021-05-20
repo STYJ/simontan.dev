@@ -2,7 +2,7 @@
 title: Favourite Articles & Videos
 date: 2020-10-19
 tags:
-  - life
+  - advice
 layout: layouts/post.njk
 ---
 
@@ -10,7 +10,6 @@ A collection of articles & videos that I enjoy and have / will re-visit in the f
 
 # Personal
 - [A journey of self discovery](../a-journey-of-self-discovery/)
-- [Acceptance](../acceptance/)
 # Future of Humanity
 - [The magic of Science](../the-magic-of-science/)
 

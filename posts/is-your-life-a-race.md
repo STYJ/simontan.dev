@@ -2,7 +2,7 @@
 title: Is your life a race?
 date: 2020-10-31
 tags:
-  - life
+  - self
 layout: layouts/post.njk
 ---
 Dear Simon,
