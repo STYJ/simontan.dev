@@ -5,6 +5,7 @@ tags:
   - projects
   - privacy
 layout: layouts/post.njk
+draft: true
 ---
 
 <img class="center" src="/img/private-messenger.png" alt="A screenshot of the user interface of the private messenger"/>

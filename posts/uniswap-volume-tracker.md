@@ -5,6 +5,7 @@ tags:
   - projects
   - uniswap
 layout: layouts/post.njk
+draft: true
 ---
 
 <img src="/img/uniswap-volume-tracker.png" alt="A screenshot of the uniswap volume tracker in action"/>

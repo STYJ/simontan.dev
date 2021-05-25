@@ -5,6 +5,7 @@ tags:
   - projects
   - bots
 layout: layouts/post.njk
+draft: true
 ---
 
 <img src="/img/CSGBob.png" alt="A screenshot of the user interface of CryptoSG Bob bot" style="width: 50%;"/>

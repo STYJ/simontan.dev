@@ -5,6 +5,7 @@ tags:
   - projects
   - data analytics
 layout: layouts/post.njk
+draft: true
 ---
 
 <img src="/img/breakdown-top-20-stake-holders.png" alt="A breakdown of the top 20 stake holders by application."/>
