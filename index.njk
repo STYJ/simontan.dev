@@ -9,7 +9,7 @@ layout: layouts/home.njk
 
 <p>I blog mostly about life, software engineering and entrepreneurship. These are 3 of my latest posts:</p>
 
-{% set postslist = collections.posts | published | head(-3) %}
+{% set postslist = collections.posts | head(-3) %}
 {% set postslistCounter = collections.posts | length %}
 {% include "postslist.njk" %}
 

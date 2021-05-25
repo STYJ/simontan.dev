@@ -33,13 +33,6 @@ module.exports = function(eleventyConfig) {
     return array.slice(0, n);
   });
 
-  // Filter out posts where draft = true in the metadata
-  eleventyConfig.addFilter("published", (array) => {
-    return array.filter((a) => {
-      return !a.data.draft
-    })
-  })
-
   eleventyConfig.addFilter("min", (...numbers) => {
     return Math.min.apply(null, numbers);
   });
@@ -47,8 +40,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection("tagList", function(collection) {
     let tagSet = new Set();
     collection.getAll().forEach(function(item) {
-      // also filter out posts that are in draft
-      if( "tags" in item.data && !item.data.draft ) {
+      if( "tags" in item.data ) {
         let tags = item.data.tags;
 
         tags = tags.filter(function(item) {
