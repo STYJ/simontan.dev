@@ -18,15 +18,16 @@ This is a live document that I created to help me with the process of discoverin
 # Tenets I try to live by
 
 - Time - Time is your most important asset so choose wisely what you spend your time on.
-- Patience - Patience is a virtue. Good things will come to those who wait.
-- Fear of rejection & failure - It is okay to be afraid but you need to find the courage to keep pressing forward.
+- Patience - Patience is a virtue. Good things will come to those who are patient.
+- Fear - It is okay to be afraid of rejection & failure but you need to find the courage to keep pressing forward.
 - Honesty - Honesty triumphs everything. Life is hard enough, don't give others a reason to doubt your intentions.
-- Risk - The biggest risk is not taking enough risks (calculated or not). Sometimes all you need to do is take that first step.
-- Risk management - When taking risks, you need to manage your exposure. There are surprisingly a lot of things you can control so stop making excuses.
+- Risk - The biggest risk is not taking enough risks. Sometimes all you need to do is take that first step.
+- Control - There are surprisingly a lot of things you can exert control over so stop making excuses and manage your risks.
+- Responsibility - Take extreme ownership and be responsible for what happens to you (good or bad). There is only one you within you, no angel or devil talking to you but you.
 - Life - Life is not a zero sum game. You can do well by doing good.
-- Luck and privilege - There are a lot of things you cannot control in life, luck and privilege are two of them. Don't fret over things you have no control.
-- Death - Death is always at your doorstep. Remember the past, live in the present and plan for the future.
+- Luck and privilege - Luck and privilege are two things that have been decided for you when you are born. Don't fret over things you have no control.
 - Regret - The only regret you can have is not making that decision for yourself. Regardless of your choice, there will be things you like and dislike. There is no reason to cry over spilled milk because you can't change the past.
+- Death - Death is always at your doorstep. Remember the past, live in the present and plan for the future.
 
 # Little things I enjoy in life
 
