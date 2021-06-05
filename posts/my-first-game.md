@@ -2,7 +2,6 @@
 title: My first game!
 date: 2020-07-23
 tags:
-  - learn in public
   - projects
   - game dev
 layout: layouts/post.njk
