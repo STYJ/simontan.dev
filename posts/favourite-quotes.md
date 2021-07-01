@@ -8,39 +8,39 @@ layout: layouts/post.njk
 
 Some motivational quotes that I am fortunate enough to chance upon (some of which are mine lol!) as I figure out the meaning of life. I believe these are worth sharing and maybe this might help someone out there. In no particular order:
 
-> There have to be reasons that you get up in the morning and you want to live. Why do you want to live? What's the point? What inspires you? What do you love about the future? If the future does not include being out there among the stars and being a multi-planet species, I find that incredibly depressing. - Elon Musk
+> Do. Or do not. There is no try. - Yoda (lol)
 
-> Our existence cannot just be about solving one miserable problem after another. There need to be reasons to live. - Elon Musk
+> I think it is possible for ordinary people to choose to be extraordinary. - Elon Musk
 
-> Sometimes it's less about doing what you like and more of doing what you're good at. The benefits of doing something you're good at is that you can get paid for it and that it is easier for you to make an impact on someone's life. This positive loop will keep growing and might one day be something you like. - Tenghui (IRL friend)
+> I could either watch it happen or be a part of it. - Elon Musk
+
+> Sometimes it's less about doing what you like and more of doing what you're good at. This positive loop will keep growing and might one day turn into something you like. - Tenghui (IRL friend)
 
 > The universe is made of stories, not of atoms. - Muriel Rukeyser.
 
 > If it's not fun, why bother? - Reggie Fils-Aimé
 
-> If you don't believe in yourself, why would anyone else trust their money with you to do it? - Simon (me!)
+> If you don't believe in yourself, why would anyone else trust you to do it? - Simon (me!)
 
-> Sometimes there isn't a right choice so the only regret you can have is not making that decision for yourself - [Pursuit of Wonder](https://youtu.be/x18bXxW3yhY)
+> Sometimes there isn't a right choice so the only regret you can have is not making that decision for yourself. - [Pursuit of Wonder](https://youtu.be/x18bXxW3yhY)
 
-> Action skews the probabilities of success which others mistake as luck - MJ DeMarco
+> Action skews the probabilities of success which others mistake as luck. - MJ DeMarco
 
-> If you need inspiring words, don't do it. - Elon Musk
+> When something is important enough, you do it even if the odds are not in your favor. - Elon Musk
 
 > There isn't anything in the world that can't be made better. - Jack Valenti
 
 > Don't equate the quality of a decision with the quality of its outcome i.e. You have control over the quality of your decisions. You don't have full control over the outcomes of your decisions. - Annie Duke
 
-> We are what we repeatedly do. Excellence, then, is not an act but a habit - Will Durant (summary of Aristotle)
+> We are what we repeatedly do. Excellence, then, is not an act but a habit. - Will Durant (summary of Aristotle)
 
-> First do it, then do it right, then do it better - Andy Osmani
+> First do it, then do it right, then do it better. - Andy Osmani
 
 > Passion is not a plan, it is a feeling and feelings change over time. - Terri Trespicio
 
-> Like how it is premature to worry about the future, it is helpless to think about the past because there's nothing you can do about it. You just have to accept that what happened happened and how you can prevent something like this from happening again. - Simon (me!)
-
 > When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us. - Alexander Graham Bell
 
-> People who call themselves realists are often just dreamers who got their hearts broken somewhere along the way - Ashley Stahl
+> People who call themselves realists are often just dreamers who got their hearts broken somewhere along the way. - Ashley Stahl
 
 > The number one reason most people don't get what they want is that they don't know what they want. - T. Harv Eker 
 
@@ -48,10 +48,8 @@ Some motivational quotes that I am fortunate enough to chance upon (some of whic
 
 > Per aspera ad astra (Through hardships to the stars) - Not sure... 🤔
 
-> You'll never like everything about your job and that's okay. In fact, you may not even like what you're good at but you should try to leverage on it to allow you to do what you like. - Aaron (IRL friend)
+> It's okay not to like everything about your job, as long as you like it more than you dislike it. - Aaron (IRL friend)
 
 > It's not that "You don't know what you want", it's because "you want a lot of things and don't like choosing". - [Sah Kilic](https://medium.com/swlh/if-you-dont-know-what-you-want-this-is-for-you-6f7491ca2fb4)
 
-> The best time to do something was yesterday. The next best time is now. - Not sure... 🤔
-
-> Take many small achievable steps instead of a few large risky steps. The former depends on you, the latter on luck. - Simon (me!)
+> Take many small achievable steps instead of a few large risky ones. The former depends on you, the latter on luck. - Simon (me!)
