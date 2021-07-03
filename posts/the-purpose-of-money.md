@@ -6,7 +6,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-I've been thinking a lot about money, specifically about the purpose of money. Historically, money was created to sove the [coincidence of wants](https://en.wikipedia.org/wiki/Coincidence_of_wants). It was simply a means to an end yet in this day and age, many of us have money as the ultimate goal in life. In all honesty, I think there's nothing wrong with that. Money can buy you many things like happiness, experiences, freedom but money cannot buy you purpose nor a meaningful life. When you are at death's door, what was once so valuable and wanted by so many people in the world suddenly becomes so worthless.
+I've been thinking a lot about money, specifically about the purpose of money. Historically, money was created to solve the [coincidence of wants](https://en.wikipedia.org/wiki/Coincidence_of_wants). It was simply a means to an end yet in this day and age, many of us have money as the ultimate goal in life. In all honesty, I think there's nothing wrong with that. Money can buy you many things like happiness, experiences, freedom but money cannot buy you purpose nor a meaningful life. When you are at death's door, what was once so valuable and wanted by so many people in the world suddenly becomes so worthless.
 
 That said however, I'm not going to be a hypocrite and say I don't like money because I do, a lot actually but eventually there will come a point in life where money nets you diminishing returns. For those who eventually reach this stage, what will you do next? For me, I have decided (even though I'm nowhere close to this lol) that I will return everything else to society.
 
