@@ -8,7 +8,7 @@ layout: layouts/post.njk
 
 Some motivational quotes that I am fortunate enough to chance upon (some of which are mine lol!) as I figure out the meaning of life. I believe these are worth sharing and maybe this might help someone out there. In no particular order:
 
-> Do. Or do not. There is no try. - Yoda (lol)
+> Either decide to go for it or don't. Seeking affirmation or inputs at times creates unnecessary doubt or leaks. - Milodino (Crypto friend)
 
 > I think it is possible for ordinary people to choose to be extraordinary. - Elon Musk
 
@@ -17,6 +17,7 @@ Some motivational quotes that I am fortunate enough to chance upon (some of whic
 > Sometimes it's less about doing what you like and more of doing what you're good at. This positive loop will keep growing and might one day turn into something you like. - Tenghui (IRL friend)
 
 > The universe is made of stories, not of atoms. - Muriel Rukeyser.
+
 
 > If it's not fun, why bother? - Reggie Fils-Aimé
 

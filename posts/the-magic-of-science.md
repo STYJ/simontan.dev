@@ -3,9 +3,7 @@ title: The magic of Science
 date: 2021-01-01
 tags:
   - science
-  - inspiration
   - anime
-  - future
 layout: layouts/post.njk
 ---
 
